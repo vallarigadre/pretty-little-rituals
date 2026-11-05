@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Stats | Pretty Little Rituals</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<style>
+@font-face { font-family: "Josefin Sans"; font-weight: 400; font-display: swap; src: url("/fonts/josefin-sans-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Josefin Sans"; font-weight: 600; font-display: swap; src: url("/fonts/josefin-sans-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Nunito Sans"; font-weight: 200 1000; font-display: swap; src: url("/fonts/nunito-sans-latin-wght-normal.woff2") format("woff2"); }
+:root {
+  --cream: #fcf8f0; --oat: #f2e9d8; --paper: #fffdf8; --ink: #2b2725; --soft: #6e6560; --line: #e7dccb;
+  --sage: #9fc7aa; --sage-deep: #5f8f6e; --peach: #e8a388; --peach-deep: #c96f52;
+  --head: "Josefin Sans", system-ui, sans-serif; --sans: "Nunito Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --cream: #1d1b19; --oat: #282420; --paper: #24211e; --ink: #f2ebe2; --soft: #bdb2a8; --line: #3a342e; --sage-deep: #9fc7aa; --peach-deep: #f0b49c; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --cream: #1d1b19; --oat: #282420; --paper: #24211e; --ink: #f2ebe2; --soft: #bdb2a8; --line: #3a342e; --sage-deep: #9fc7aa; --peach-deep: #f0b49c; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--cream); color: var(--ink); font: 400 15px/1.55 var(--sans); }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 24px 16px 64px; }
+h1, h2 { font-family: var(--head); font-weight: 400; margin: 0; }
+h1 { font-size: 1.7rem; }
+h2 { font-size: 1.15rem; margin-bottom: 12px; }
+.label { font: 600 .72rem/1.2 var(--head); letter-spacing: .14em; text-transform: uppercase; color: var(--soft); }
+.top { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 20px; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip, button, select, input { font: inherit; color: var(--ink); }
+.chip { border: 1px solid var(--line); background: var(--paper); padding: 6px 12px; border-radius: 999px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--sage-deep); border-color: var(--sage-deep); color: #fff; }
+select { border: 1px solid var(--line); background: var(--paper); padding: 6px 10px; border-radius: 8px; max-width: 260px; }
+.link { background: none; border: 0; color: var(--soft); text-decoration: underline; cursor: pointer; padding: 6px 4px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin-bottom: 20px; }
+.tile, .card { background: var(--paper); border: 1px solid var(--line); border-radius: 12px; }
+.tile { padding: 14px 16px; }
+.tile b { display: block; font: 400 2rem/1.1 var(--head); margin-top: 6px; font-variant-numeric: tabular-nums; }
+.tile small { color: var(--soft); }
+.card { padding: 18px 16px; margin-bottom: 16px; overflow-x: auto; }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px; }
+.grid2 .card { margin-bottom: 0; }
+table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font: 600 .7rem/1.2 var(--head); letter-spacing: .12em; text-transform: uppercase; color: var(--soft); }
+td.n, th.n { text-align: right; white-space: nowrap; }
+tr:last-child td { border-bottom: 0; }
+td a { color: inherit; }
+.sub { display: block; color: var(--soft); font-size: .82rem; }
+.bar { height: 6px; border-radius: 3px; background: var(--sage); margin-top: 5px; }
+.bar.peach { background: var(--peach); }
+.chart { display: flex; align-items: stretch; gap: 3px; height: 140px; padding-top: 8px; }
+.chart div { flex: 1; height: 100%; display: flex; flex-direction: column; justify-content: flex-end; gap: 2px; min-width: 3px; }
+.chart i { display: block; background: var(--sage); border-radius: 2px 2px 0 0; }
+.chart i.c { background: var(--peach); }
+.axis { display: flex; justify-content: space-between; color: var(--soft); font-size: .78rem; margin-top: 6px; }
+.legend { display: flex; gap: 14px; color: var(--soft); font-size: .85rem; }
+.legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; background: var(--sage); margin-right: 6px; vertical-align: -1px; }
+.legend span.c::before { background: var(--peach); }
+.empty { color: var(--soft); padding: 8px 0; }
+.note { color: var(--soft); font-size: .88rem; margin: 6px 0 18px; }
+.login { max-width: 380px; margin: 12vh auto 0; background: var(--paper); border: 1px solid var(--line); border-radius: 14px; padding: 28px 24px; }
+.login input { width: 100%; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--cream); margin: 14px 0 10px; }
+.login button { width: 100%; padding: 10px; border: 0; border-radius: 8px; background: var(--sage-deep); color: #fff; cursor: pointer; }
+.err { color: var(--peach-deep); min-height: 1.3em; font-size: .9rem; }
+[hidden] { display: none !important; }
+</style>
+</head>
+<body>
+
+<div id="login" class="login" hidden>
+  <p class="label">Pretty Little Rituals</p>
+  <h1>Your stats</h1>
+  <form id="loginForm">
+    <label class="label" for="pw" style="display:block;margin-top:18px">Password</label>
+    <input id="pw" type="password" autocomplete="current-password" required>
+    <p class="err" id="loginErr"></p>
+    <button type="submit">Open stats</button>
+  </form>
+  <p class="note">This browser will remember you, and your own visits to the blog won't be counted.</p>
+</div>
+
+<div id="app" class="wrap" hidden>
+  <div class="top">
+    <div>
+      <p class="label">Pretty Little Rituals</p>
+      <h1>Reader stats</h1>
+    </div>
+    <div class="controls">
+      <button class="chip" data-range="1">Today</button>
+      <button class="chip" data-range="7">7 days</button>
+      <button class="chip" data-range="30" aria-pressed="true">30 days</button>
+      <button class="chip" data-range="90">90 days</button>
+      <button class="chip" data-range="0">All time</button>
+      <select id="postFilter" aria-label="Filter by post"><option value="">All posts</option></select>
+      <button class="link" id="refresh">Refresh</button>
+      <button class="link" id="logout">Sign out</button>
+    </div>
+  </div>
+  <p class="note" id="status">Loading…</p>
+
+  <div class="tiles">
+    <div class="tile"><span class="label">Post views</span><b id="tViews">0</b><small id="tViewsSub"></small></div>
+    <div class="tile"><span class="label">Read through</span><b id="tReads">0</b><small id="tReadsSub"></small></div>
+    <div class="tile"><span class="label">Amazon clicks</span><b id="tClicks">0</b><small id="tClicksSub"></small></div>
+    <div class="tile"><span class="label">Top platform</span><b id="tTop">None</b><small id="tTopSub"></small></div>
+  </div>
+
+  <div class="card">
+    <div class="top" style="margin-bottom:6px"><h2 style="margin:0">Day by day</h2><div class="legend"><span>Views</span><span class="c">Amazon clicks</span></div></div>
+    <div class="chart" id="chart"></div>
+    <div class="axis"><span id="axisStart"></span><span id="axisEnd"></span></div>
+  </div>
+
+  <div class="card">
+    <h2>Posts</h2>
+    <table id="postsTable"><thead><tr><th>Post</th><th class="n">Views</th><th class="n">Read through</th><th class="n">Amazon clicks</th><th class="n">Clicks per 100 views</th></tr></thead><tbody></tbody></table>
+  </div>
+
+  <div class="card">
+    <h2>Top Amazon links</h2>
+    <table id="linksTable"><thead><tr><th>Product</th><th class="n">Clicks</th><th>Clicked from</th><th>Platforms</th></tr></thead><tbody></tbody></table>
+  </div>
+
+  <div class="grid2" style="margin-bottom:16px">
+    <div class="card">
+      <h2>Where readers came from</h2>
+      <table id="srcTable"><thead><tr><th>Platform</th><th class="n">Views</th><th class="n">Reads</th><th class="n">Amazon clicks</th></tr></thead><tbody></tbody></table>
+    </div>
+    <div class="card">
+      <h2>Other pages</h2>
+      <table id="pagesTable"><thead><tr><th>Page</th><th class="n">Views</th></tr></thead><tbody></tbody></table>
+    </div>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <h2>Devices</h2>
+      <table id="devTable"><tbody></tbody></table>
+    </div>
+    <div class="card">
+      <h2>Countries</h2>
+      <table id="ctyTable"><tbody></tbody></table>
+    </div>
+  </div>
+  <p class="note" style="margin-top:18px">Counts are anonymous. A view counts once per page per visit. "Read through" means the reader scrolled at least 60% of the way through a post. Platform comes from the link's utm_source tag, or the site the reader came from; Instagram and Threads apps often hide this, so tag your links there. Sales and earnings are in Amazon Associates under the thelittlenestblog-20 tracking ID.</p>
+</div>
+
+<script>
+(function () {
+  var KEY = "tln_key";
+  var data = null, range = 30, postFilter = "";
+  var $ = function (id) { return document.getElementById(id); };
+  var fmt = function (n) { return Number(n || 0).toLocaleString("en-US"); };
+  var pct = function (a, b) { return b ? Math.round((a / b) * 100) + "%" : "0%"; };
+  var esc = function (s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); };
+  var store = {
+    get: function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
+    set: function (k, v) { try { localStorage.setItem(k, v); } catch (e) {} },
+    del: function (k) { try { localStorage.removeItem(k); } catch (e) {} }
+  };
+
+  function showLogin(msg) { $("app").hidden = true; $("login").hidden = false; $("loginErr").textContent = msg || ""; $("pw").focus(); }
+
+  function load() {
+    var key = store.get(KEY);
+    if (!key) return showLogin();
+    $("status").textContent = "Loading…";
+    fetch("/api/stats", { headers: { "x-key": key }, cache: "no-store" })
+      .then(function (r) {
+        if (r.status === 401) { store.del(KEY); throw new Error("login"); }
+        if (!r.ok) throw new Error("server");
+        return r.json();
+      })
+      .then(function (d) {
+        data = d;
+        $("login").hidden = true; $("app").hidden = false;
+        var when = new Date().toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" });
+        $("status").textContent = "Updated " + when + "." + (d.partial ? " Very busy hour: some of the latest events will appear on the next refresh." : "");
+        fillPostFilter(); render();
+      })
+      .catch(function (e) {
+        if (e.message === "login") showLogin("That password didn't work.");
+        else { $("app").hidden = false; $("status").textContent = "Couldn't load stats right now. Try Refresh in a minute."; }
+      });
+  }
+
+  function dayList() {
+    var days = Object.keys(data.days).sort();
+    if (!range) return days;
+    var cut = new Date(); cut.setUTCHours(0, 0, 0, 0); cut.setUTCDate(cut.getUTCDate() - (range - 1));
+    var c = cut.toISOString().slice(0, 10);
+    return days.filter(function (d) { return d >= c; });
+  }
+
+  function rows(days) {
+    var out = [];
+    days.forEach(function (day) {
+      var r = data.days[day].rows;
+      Object.keys(r).forEach(function (k) {
+        var a = JSON.parse(k);
+        out.push({ day: day, t: a[0], p: a[1], s: a[2], h: a[3], x: a[4], w: a[5], d: a[6], c: a[7], n: r[k] });
+      });
+    });
+    return out;
+  }
+
+  function titles() {
+    var t = {};
+    Object.keys(data.days).sort().forEach(function (d) { Object.assign(t, data.days[d].titles || {}); });
+    return t;
+  }
+
+  function fillPostFilter() {
+    var t = titles(), sel = $("postFilter"), cur = sel.value;
+    var posts = Object.keys(t).filter(function (p) { return p.indexOf("/posts/") === 0; }).sort(function (a, b) { return t[a].localeCompare(t[b]); });
+    sel.innerHTML = '<option value="">All posts</option>' + posts.map(function (p) { return '<option value="' + esc(p) + '">' + esc(t[p]) + "</option>"; }).join("");
+    sel.value = cur;
+  }
+
+  function group(list, keyFn) {
+    var g = {};
+    list.forEach(function (r) { var k = keyFn(r); (g[k] = g[k] || { views: 0, reads: 0, clicks: 0, items: [] }); g[k][r.t === "view" ? "views" : r.t === "read" ? "reads" : "clicks"] += r.n; g[k].items.push(r); });
+    return g;
+  }
+
+  function sorted(g, field) { return Object.keys(g).sort(function (a, b) { return g[b][field] - g[a][field] || a.localeCompare(b); }); }
+
+  function render() {
+    var days = dayList(), t = titles();
+    var all = rows(days);
+    var list = postFilter ? all.filter(function (r) { return r.p === postFilter; }) : all;
+    var postRows = list.filter(function (r) { return r.p.indexOf("/posts/") === 0; });
+    var name = function (p) { return t[p] || p; };
+
+    // tiles
+    var tv = 0, tr = 0, tc = 0;
+    postRows.forEach(function (r) { if (r.t === "view") tv += r.n; else if (r.t === "read") tr += r.n; else tc += r.n; });
+    $("tViews").textContent = fmt(tv);
+    var allViews = list.filter(function (r) { return r.t === "view"; }).reduce(function (s, r) { return s + r.n; }, 0);
+    $("tViewsSub").textContent = postFilter ? "" : fmt(allViews) + " views across the whole site";
+    $("tReads").textContent = fmt(tr);
+    $("tReadsSub").textContent = pct(tr, tv) + " of post views";
+    $("tClicks").textContent = fmt(tc);
+    $("tClicksSub").textContent = (tv ? (tc / tv * 100).toFixed(1) : "0") + " per 100 post views";
+    var src = group(list, function (r) { return r.s; });
+    var topSrc = sorted(src, "views")[0];
+    $("tTop").textContent = topSrc || "None";
+    $("tTopSub").textContent = topSrc ? pct(src[topSrc].views, allViews) + " of views" : "";
+
+    // chart
+    var dayKeys = [];
+    if (range) { for (var i = range - 1; i >= 0; i--) { var d = new Date(); d.setUTCDate(d.getUTCDate() - i); dayKeys.push(d.toISOString().slice(0, 10)); } }
+    else dayKeys = days.length ? days : [];
+    var perDay = {};
+    list.forEach(function (r) { var o = perDay[r.day] = perDay[r.day] || { v: 0, c: 0 }; if (r.t === "view") o.v += r.n; else if (r.t === "click") o.c += r.n; });
+    var max = 1; dayKeys.forEach(function (k) { var o = perDay[k]; if (o) max = Math.max(max, o.v); });
+    $("chart").innerHTML = dayKeys.map(function (k) {
+      var o = perDay[k] || { v: 0, c: 0 };
+      return '<div title="' + k + ": " + o.v + " views, " + o.c + ' clicks"><i style="height:' + (o.v / max * 100) + '%"></i><i class="c" style="height:' + (o.c / max * 100) + '%"></i></div>';
+    }).join("");
+    var nice = function (k) { return k ? new Date(k + "T00:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" }) : ""; };
+    $("axisStart").textContent = nice(dayKeys[0]); $("axisEnd").textContent = nice(dayKeys[dayKeys.length - 1]);
+
+    // posts
+    var gp = group(postRows, function (r) { return r.p; });
+    var pk = sorted(gp, "views");
+    $("postsTable").querySelector("tbody").innerHTML = pk.length ? pk.map(function (p) {
+      var o = gp[p];
+      return "<tr><td><a href=\"" + esc(p) + "\" target=\"_blank\" rel=\"noopener\">" + esc(name(p)) + '</a></td><td class="n">' + fmt(o.views) + '</td><td class="n">' + fmt(o.reads) + ' <span class="sub">' + pct(o.reads, o.views) + '</span></td><td class="n">' + fmt(o.clicks) + '</td><td class="n">' + (o.views ? (o.clicks / o.views * 100).toFixed(1) : "0") + "</td></tr>";
+    }).join("") : '<tr><td colspan="5" class="empty">No post views yet in this period.</td></tr>';
+
+    // links
+    var clicks = list.filter(function (r) { return r.t === "click"; });
+    var gl = {};
+    clicks.forEach(function (r) {
+      var o = gl[r.h] = gl[r.h] || { n: 0, names: {}, posts: {}, where: { story: 0, list: 0 }, src: {} };
+      o.n += r.n; o.names[r.x] = (o.names[r.x] || 0) + r.n; o.posts[r.p] = (o.posts[r.p] || 0) + r.n;
+      o.where[r.w === "list" ? "list" : "story"] += r.n; o.src[r.s] = (o.src[r.s] || 0) + r.n;
+    });
+    var top = function (m) { return Object.keys(m).sort(function (a, b) { return m[b] - m[a]; }); };
+    var lk = Object.keys(gl).sort(function (a, b) { return gl[b].n - gl[a].n; }).slice(0, 50);
+    var lmax = lk.length ? gl[lk[0]].n : 1;
+    $("linksTable").querySelector("tbody").innerHTML = lk.length ? lk.map(function (h) {
+      var o = gl[h], prod = top(o.names)[0] || h;
+      var posts = top(o.posts).map(function (p) { return esc(name(p)); }).join(", ");
+      var where = [o.where.story ? o.where.story + " in story" : "", o.where.list ? o.where.list + " in shop list" : ""].filter(Boolean).join(", ");
+      var srcs = top(o.src).map(function (s) { return esc(s) + " " + o.src[s]; }).join(", ");
+      return '<tr><td><a href="' + esc(h) + '" target="_blank" rel="noopener">' + esc(prod) + '</a><span class="sub">' + posts + '</span><div class="bar peach" style="width:' + (o.n / lmax * 100) + '%"></div></td><td class="n">' + fmt(o.n) + "</td><td>" + where + "</td><td>" + srcs + "</td></tr>";
+    }).join("") : '<tr><td colspan="4" class="empty">No Amazon clicks yet in this period.</td></tr>';
+
+    // sources
+    var sk = sorted(src, "views"), smax = sk.length ? Math.max(1, src[sk[0]].views) : 1;
+    $("srcTable").querySelector("tbody").innerHTML = sk.length ? sk.map(function (s) {
+      var o = src[s];
+      return "<tr><td>" + esc(s) + '<div class="bar" style="width:' + (o.views / smax * 100) + '%"></div></td><td class="n">' + fmt(o.views) + '</td><td class="n">' + fmt(o.reads) + '</td><td class="n">' + fmt(o.clicks) + "</td></tr>";
+    }).join("") : '<tr><td colspan="4" class="empty">No visits yet in this period.</td></tr>';
+
+    // other pages
+    var other = group(all.filter(function (r) { return r.t === "view" && r.p.indexOf("/posts/") !== 0; }), function (r) { return r.p; });
+    var ok = sorted(other, "views").slice(0, 15);
+    $("pagesTable").querySelector("tbody").innerHTML = ok.length ? ok.map(function (p) {
+      return "<tr><td>" + esc(p === "/" ? "Home page" : name(p)) + '<span class="sub">' + esc(p) + '</span></td><td class="n">' + fmt(other[p].views) + "</td></tr>";
+    }).join("") : '<tr><td colspan="2" class="empty">Nothing yet.</td></tr>';
+
+    // devices and countries
+    var views = list.filter(function (r) { return r.t === "view"; });
+    var simple = function (id, keyFn, label) {
+      var g = {}, total = 0;
+      views.forEach(function (r) { var k = keyFn(r) || "Unknown"; g[k] = (g[k] || 0) + r.n; total += r.n; });
+      var ks = top(g).slice(0, 10);
+      $(id).querySelector("tbody").innerHTML = ks.length ? ks.map(function (k) {
+        return "<tr><td>" + esc(label ? label(k) : k) + '</td><td class="n">' + fmt(g[k]) + ' <span class="sub">' + pct(g[k], total) + "</span></td></tr>";
+      }).join("") : '<tr><td class="empty">Nothing yet.</td></tr>';
+    };
+    var dn = (function () { try { return new Intl.DisplayNames(["en"], { type: "region" }); } catch (e) { return null; } })();
+    simple("devTable", function (r) { return r.d; });
+    simple("ctyTable", function (r) { return r.c; }, function (k) { if (k === "Unknown") return k; try { return dn ? dn.of(k) : k; } catch (e) { return k; } });
+  }
+
+  $("loginForm").addEventListener("submit", function (e) {
+    e.preventDefault();
+    store.set(KEY, $("pw").value.trim());
+    store.set("tln_notrack", "1");
+    $("pw").value = "";
+    load();
+  });
+  document.querySelectorAll("[data-range]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      range = Number(b.getAttribute("data-range"));
+      document.querySelectorAll("[data-range]").forEach(function (x) { x.setAttribute("aria-pressed", x === b ? "true" : "false"); });
+      if (data) render();
+    });
+  });
+  $("postFilter").addEventListener("change", function () { postFilter = this.value; if (data) render(); });
+  $("refresh").addEventListener("click", load);
+  $("logout").addEventListener("click", function () { store.del(KEY); data = null; showLogin(); });
+
+  if (store.get(KEY)) store.set("tln_notrack", "1");
+  load();
+})();
+</script>
+</body>
+</html>
