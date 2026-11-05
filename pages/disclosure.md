@@ -9,4 +9,3 @@ As an Amazon Associate I earn from qualifying purchases. When you click a produc
 
 Products are chosen because they fit the story and are well reviewed, not because of the commission. Prices and availability shown in posts are approximate and can change at any time, so always check the current price on Amazon before buying.
 
-Questions about this policy can be sent by replying to any Sunday Ritual letter.

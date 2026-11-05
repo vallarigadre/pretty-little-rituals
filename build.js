@@ -211,7 +211,7 @@ function card(post) {
   </article>`;
 }
 
-const newsletter = `<section class="letter" aria-labelledby="letter-h">
+const newsletter = !site.newsletter ? "" : `<section class="letter" aria-labelledby="letter-h">
   <div class="letter__inner">
     <p class="kicker">The Sunday Ritual</p>
     <h2 id="letter-h">One splurge, one everyday find, every Sunday</h2>
@@ -268,7 +268,7 @@ ${jsonld}
 ${/^G-[A-Z0-9]+$/.test(site.googleAnalyticsId || "") ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${site.googleAnalyticsId}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","${site.googleAnalyticsId}");
 document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a.shop-link");if(a)gtag("event","affiliate_click",{link_url:a.href,link_text:(a.textContent||"").trim().slice(0,100)});});</script>` : ""}
-${noindex ? "" : `<script defer src="/t.js?v=${T_VERSION}"></script>`}
+${noindex || !site.stats ? "" : `<script defer src="/t.js?v=${T_VERSION}"></script>`}
 ${site.cloudflareAnalyticsToken ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${esc(site.cloudflareAnalyticsToken)}"}'></script>` : ""}
 </head>
 <body>
@@ -326,7 +326,7 @@ function homePage(posts) {
     <p class="hero__lede">Skincare, makeup, hair and fragrance from Amazon, with one splurge and one everyday pick for every step of your routine.</p>
     <div class="hero__actions">
       <a class="btn btn--peach" href="/skincare/">Start with skincare</a>
-      <a class="btn btn--line" href="#letter-h">Get The Sunday Ritual</a>
+      ${site.newsletter ? `<a class="btn btn--line" href="#letter-h">Get The Sunday Ritual</a>` : `<a class="btn btn--line" href="/archive/">Read the stories</a>`}
     </div>
   </div>
   <div class="hero__media"><div class="hero__frame">${heroImg}</div></div>

@@ -17,4 +17,4 @@ Pretty Little Rituals is for women who love beauty but do not believe every step
 
 ## New stories
 
-New stories go up twice a week. Join The Sunday Ritual at the bottom of any page to get them in your inbox.
+New stories go up twice a week.

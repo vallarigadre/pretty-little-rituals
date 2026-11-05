@@ -2,7 +2,7 @@
   "name": "Pretty Little Rituals",
   "tagline": "Beauty worth the splurge, essentials worth the shelf space.",
   "description": "Luxury beauty and everyday essentials from Amazon: skincare, makeup, hair and fragrance, with a splurge and an everyday pick for every step.",
-  "url": "https://prettylittlerituals.netlify.app",
+  "url": "https://prettylittlerituals.pages.dev",
   "author": "Vallari Gadre",
   "authorShort": "V",
   "amazonTag": "",
@@ -40,5 +40,7 @@
   "pinterestVerification": "",
   "heroAlt": "A marble vanity with a luxury perfume bottle, a lipstick and a blush silk ribbon in soft light",
   "shopUrl": "",
-  "products": []
+  "products": [],
+  "newsletter": false,
+  "stats": false
 }
