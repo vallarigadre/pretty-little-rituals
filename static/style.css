@@ -79,7 +79,7 @@ h1, h2, h3 { font-family: var(--head); font-weight: 400; line-height: 1.15; lett
 /* ---------- hero ---------- */
 .hero { display: grid; grid-template-columns: 1.05fr 1fr; gap: clamp(2rem, 5vw, 4.5rem); align-items: center; padding-top: clamp(2.5rem, 7vw, 5.5rem); padding-bottom: clamp(3rem, 7vw, 5.5rem); }
 .hero__title { margin: 0 0 1.4rem; font-weight: 400; font-size: clamp(2rem, 4.2vw, 3.1rem); line-height: 1.08; }
-.hero__title span, .hero__title strong { display: block; }
+.hero__title span, .hero__title strong { display: block; text-wrap: balance; }
 .hero__title strong { font-weight: 500; font-style: italic; font-size: 1.5em; margin: .05em 0 .1em; }
 .hero__lede { font-size: 1.2rem; color: var(--soft); max-width: 36ch; margin: 0 0 2rem; }
 .hero__actions { display: flex; gap: .8rem; flex-wrap: wrap; }
