@@ -1,13 +1,11 @@
 ---
 title: About Pretty Little Rituals
-description: "Who writes Pretty Little Rituals and how products are chosen: luxury beauty and everyday essentials from Amazon, side by side."
+description: "What Pretty Little Rituals is and how products are chosen: luxury beauty and everyday essentials from Amazon, side by side."
 ---
 
 ![A marble vanity with a few pretty beauty products in soft light](/images/about.jpg)
 
 Pretty Little Rituals is for women who love beauty but do not believe every step of a routine needs the most expensive option. Every story pairs a luxury pick with an everyday one, across skincare, makeup, hair and fragrance, so you can choose where your money goes.
-
-It is written by Vallari, who spent a decade in retail buying and planning, deciding which products deserve shelf space and which do not. That habit carries straight into every list on this site.
 
 ## What we promise
 

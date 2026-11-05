@@ -338,17 +338,6 @@ function homePage(posts) {
   <blockquote class="quote"><span aria-hidden="true">&ldquo;</span>Splurge where you'll notice it.<br>Save where you won't.</blockquote>
 </section>`;
 
-  const meet = `<section class="meet wrap">
-  <div class="meet__img">${aboutImg}</div>
-  <div class="meet__card">
-    <h2>Hi, I'm Vallari</h2>
-    <p class="meet__role">Former retail buyer, label reader</p>
-    <hr>
-    <p>I spent a decade in retail deciding which products deserve shelf space. Now I bring that same habit to beauty: reading the fine print, comparing what you pay for, and keeping the list short.</p>
-    <a class="btn btn--light" href="/about/">Read my story</a>
-  </div>
-</section>`;
-
   const sections = `<section class="topics wrap" aria-labelledby="topics-h">
   <p class="kicker">Shop the shelf</p>
   <h2 id="topics-h" class="h-sec">Browse by ritual</h2>
@@ -378,7 +367,7 @@ function homePage(posts) {
   </div>
 </section>`;
 
-  const body = `${hero}\n${welcome}\n${meet}\n${sections}\n${blog}\n${freebies}\n${newsletter}`;
+  const body = `${hero}\n${welcome}\n\n${sections}\n${blog}\n${freebies}\n${newsletter}`;
   write("index.html", layout({ path: "/", body, description: site.description }));
 }
 
