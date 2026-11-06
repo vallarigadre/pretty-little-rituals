@@ -25,23 +25,42 @@ Good to know:
 - Posts dated in the future wait until their date.
 - The homepage photo is `static/images/hero.jpg`. Replace it with a portrait JPG (about 900 x 1350) to change it.
 
-## Post front matter
+## Post format (Nov 2026 refresh)
+
+Every post follows the same shape, based on what ranks and converts for beauty affiliate blogs in 2026 (answer first, scannable picks, real detail, FAQ).
 
 ```yaml
 ---
 title: "Post title"
 subtitle: "One-line subtitle"
-date: 2026-10-13
-draft: true               # remove to publish
-category: Hosting          # Skincare, Makeup, Hair & Tools or Fragrance
+date: 2026-11-10
+updated: 2026-11-20        # optional: shows "Updated" and tells Google the page is fresh
+category: Skincare          # Skincare, Makeup, K-Beauty, Hair & Tools, Fragrance & Body or Gift Guides
 description: "Under 155 characters, used by Google and social shares"
-tags: [fall decor, tablescape]
-pin_title: "Optional Pinterest title"
-pin_description: "Optional Pinterest description"
-cover: "Optional image URL"   # leave out to use the colored cover
-cover_alt: "Optional image description"
+verdict: "One or two sentences: the short answer, shown in a box at the top"
+tags: [winter skincare routine, splurge or save]
+trending: true              # optional: shows the post in the homepage Trending now row
+pin_title: "Pinterest title"
+pin_description: "Pinterest description"
+cover: "/images/slug.jpg"
+cover_alt: "Cover photo description"
 ---
 ```
+
+Body, in this order:
+
+1. The italic affiliate disclosure line.
+2. A short hook intro (2 to 3 short paragraphs).
+3. One `##` section per step or category. Inside, pick paragraphs written exactly like this (the site turns them into pick cards and builds the Quick picks box at the top of the post automatically):
+   `**The splurge:** [Product name](https://www.amazon.com/dp/ASIN?tag=creativedi03c-20) why it earns the spot.`
+   `**The everyday:** [Product name](https://www.amazon.com/dp/ASIN?tag=creativedi03c-20) why it earns the spot.`
+   Then one or two sentences on who should pick which.
+4. `## Side by side`: a markdown comparison table (pick, type, size, texture or finish, best for). No prices.
+5. `## Worth the splurge?`: the honest verdict.
+6. `## FAQ`: 3 to 5 real questions as `### Question?` with a short answer under each (the site adds FAQ data for Google).
+7. A short close with a link to a related post, then: "Prices change often, so check the current price on Amazon before you buy."
+
+Rules: 1,200 to 1,800 words, real Amazon products found on amazon.com and linked by /dp/ASIN, no prices, no medical or results claims, never claim V tested a product, no em dashes. Set `quickpicks: false` in the front matter to hide the Quick picks box on a post.
 
 ## Change site settings
 

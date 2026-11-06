@@ -1,36 +1,57 @@
 {
   "name": "Pretty Little Rituals",
   "tagline": "Beauty worth the splurge, essentials worth the shelf space.",
-  "description": "Luxury beauty and everyday essentials from Amazon: skincare, makeup, hair and fragrance, with a splurge and an everyday pick for every step.",
+  "description": "Luxury beauty and everyday essentials from Amazon: skincare, K-beauty, makeup, hair, fragrance and gifts, with a splurge and an everyday pick for every step.",
   "url": "https://prettylittlerituals.blog",
   "author": "Vallari Gadre",
   "authorShort": "V",
-  "amazonTag": "",
+  "amazonTag": "creativedi03c-20",
   "pinterest": "",
   "instagram": "",
   "sections": [
     {
       "name": "Skincare",
       "slug": "skincare",
-      "blurb": "Cleansers, creams and sunscreen, from the splurge to the bathroom staple.",
+      "blurb": "Cleansers, serums, masks and sunscreen, from the splurge to the bathroom staple.",
+      "image": ""
+    },
+    {
+      "name": "K-Beauty",
+      "slug": "k-beauty",
+      "blurb": "The Korean skincare Amazon can't keep in stock, paired with the luxury it rivals.",
       "image": ""
     },
     {
       "name": "Makeup",
       "slug": "makeup",
-      "blurb": "Fast everyday faces and party looks, at both ends of the price range.",
+      "blurb": "Skin tints, lips and party looks, at both ends of the price range.",
       "image": ""
     },
     {
       "name": "Hair & Tools",
       "slug": "hair-and-tools",
-      "blurb": "Blowouts, hair care and the beauty tools that earn their shelf space.",
+      "blurb": "Blowouts, scalp care and the beauty tools that earn their shelf space.",
       "image": ""
     },
     {
-      "name": "Fragrance",
+      "name": "Fragrance & Body",
       "slug": "fragrance",
-      "blurb": "Signature perfumes, body mists and scents worth gifting.",
+      "aliases": [
+        "Fragrance",
+        "Body",
+        "Fragrance and Body"
+      ],
+      "blurb": "Signature perfumes, body care and the art of layering a scent that is yours.",
+      "image": ""
+    },
+    {
+      "name": "Gift Guides",
+      "slug": "gift-guides",
+      "aliases": [
+        "Gifts",
+        "Gift Guide"
+      ],
+      "blurb": "Beauty gifts that look expensive, at every budget.",
       "image": ""
     }
   ],
@@ -41,6 +62,8 @@
   "heroAlt": "A marble vanity with a luxury perfume bottle, a lipstick and a blush silk ribbon in soft light",
   "shopUrl": "",
   "products": [],
-  "newsletter": false,
-  "stats": false
+  "newsletter": true,
+  "stats": false,
+  "trendingLabel": "Trending now",
+  "authorBio": "I'm V. I spent ten years in fashion retail buying and merchandise planning, choosing what earns a place on the shelf and what gets left behind. I bring the same eye to beauty: every pick here is chosen from real Amazon listings, ingredient lists and thousands of shopper reviews, with one splurge and one everyday option so you decide where your money goes."
 }

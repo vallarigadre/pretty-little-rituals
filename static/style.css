@@ -271,3 +271,27 @@ h1, h2, h3 { font-family: var(--head); font-weight: 400; line-height: 1.15; lett
 .pick--splurge .shop-link, .pick--splurge a { color: var(--blush); }
 .pick--splurge .shop-link:hover { color: #fff; }
 .pick--everyday { background: var(--oat); }
+
+/* ---------- Nov 2026 refresh: answer-first post blocks ---------- */
+.prose .verdict { border-left: 3px solid var(--rose); background: var(--oat); padding: 1.1rem 1.3rem; margin: 0 0 1.6rem; }
+.verdict__h, .quickpicks__h, .byline-box__h { font: 600 .72rem/1.2 var(--sans); letter-spacing: .16em; text-transform: uppercase; color: var(--rose); margin: 0 0 .5rem; }
+.prose .verdict p:last-child { margin: 0; font-size: 1.06rem; }
+.prose .quickpicks { border: 1px solid var(--line); background: var(--paper); padding: 1.1rem 1.2rem .4rem; margin: 1.6rem 0 2rem; }
+.prose .quickpicks table { margin: .4rem 0 .8rem; font-size: .92rem; }
+.quickpicks th, .quickpicks td { text-align: left; vertical-align: top; padding: .55rem .6rem; border-bottom: 1px solid var(--line); }
+.quickpicks thead th { font: 600 .7rem/1.2 var(--sans); letter-spacing: .12em; text-transform: uppercase; color: var(--soft); }
+.quickpicks tbody th a { color: var(--ink); text-decoration: none; font-weight: 600; }
+.quickpicks tbody tr:last-child th, .quickpicks tbody tr:last-child td { border-bottom: 0; }
+.prose .faq { border-top: 1px solid var(--line); margin-top: 2.2rem; padding-top: .4rem; }
+.prose .faq h3 { font: 600 1.02rem/1.4 var(--sans); margin: 1.3rem 0 .35rem; }
+.byline-box { margin-top: 1.8rem; padding: 1.1rem 1.3rem; background: var(--oat); }
+.byline-box p:last-child { margin: 0; font-size: .95rem; line-height: 1.6; }
+.trending { padding-top: 1rem; }
+.trending__list { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; }
+@media (max-width: 640px) {
+  .quickpicks thead { display: none; }
+  .quickpicks tr { display: block; padding: .5rem 0; border-bottom: 1px solid var(--line); }
+  .quickpicks th, .quickpicks td { display: block; border: 0; padding: .15rem 0; }
+  .quickpicks td:nth-of-type(1)::before { content: "Splurge: "; font-weight: 600; }
+  .quickpicks td:nth-of-type(2)::before { content: "Everyday: "; font-weight: 600; }
+}

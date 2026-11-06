@@ -37,7 +37,8 @@ function formatDate(d) {
 }
 
 function sectionFor(name) {
-  const found = site.sections.find((s) => s.name.toLowerCase() === String(name || "").toLowerCase());
+  const want = String(name || "").toLowerCase().trim();
+  const found = site.sections.find((s) => s.name.toLowerCase() === want || s.slug === want || (s.aliases || []).some((a) => a.toLowerCase() === want));
   return found || site.sections[0];
 }
 
@@ -48,11 +49,13 @@ function guessSection(text) {
   const skin = score(["serum", "moisturizer", "cleanser", "skincare", "sunscreen", "toner", "cream"]);
   const makeup = score(["lipstick", "mascara", "foundation", "concealer", "blush", "makeup", "highlighter"]);
   const hair = score(["hair", "shampoo", "blowout", "curl", "dryer", "brush", "tool"]);
-  const scent = score(["perfume", "fragrance", "scent", "eau de", "cologne", "body mist"]);
-  const best = Math.max(skin, makeup, hair, scent);
+  const scent = score(["perfume", "fragrance", "scent", "eau de", "cologne", "body mist", "body lotion"]);
+  const kbeauty = score(["k-beauty", "korean", "medicube", "cosrx", "anua"]);
+  const best = Math.max(skin, makeup, hair, scent, kbeauty);
+  if (best === kbeauty && kbeauty > 0) return "K-Beauty";
   if (best === makeup && makeup > 0) return "Makeup";
   if (best === hair && hair > 0) return "Hair & Tools";
-  if (best === scent && scent > 0) return "Fragrance";
+  if (best === scent && scent > 0) return "Fragrance & Body";
   return "Skincare";
 }
 
@@ -98,6 +101,54 @@ function renderPicks(html) {
   });
 }
 
+// Give every h2 an id so the Quick picks box can jump to it.
+function headingIds(html) {
+  const used = {};
+  return html.replace(/<h2>([\s\S]*?)<\/h2>/g, (m, inner) => {
+    let id = slugify(inner.replace(/<[^>]+>/g, "")) || "section";
+    used[id] = (used[id] || 0) + 1;
+    if (used[id] > 1) id += "-" + used[id];
+    return `<h2 id="${id}">${inner}</h2>`;
+  });
+}
+
+// Quick picks: one row per section that has a splurge or everyday pick, built from the pick cards.
+function quickPicks(html) {
+  const rows = [];
+  const parts = html.split(/(?=<h2 id=")/);
+  for (const part of parts) {
+    const h = part.match(/^<h2 id="([^"]+)">([\s\S]*?)<\/h2>/);
+    if (!h) continue;
+    const pick = (kind) => {
+      const m = part.match(new RegExp(`<p class="pick pick--${kind}">[\\s\\S]*?(<a href="[^"]+"[^>]*>[\\s\\S]*?<\\/a>)`));
+      return m ? m[1] : "";
+    };
+    const splurge = pick("splurge"), everyday = pick("everyday");
+    if (!splurge && !everyday) continue;
+    const label = h[2].replace(/<[^>]+>/g, "").replace(/^Step \d+:\s*/i, "");
+    rows.push(`<tr><th scope="row"><a href="#${h[1]}">${label}</a></th><td>${splurge || "&nbsp;"}</td><td>${everyday || "&nbsp;"}</td></tr>`);
+  }
+  if (rows.length < 2) return html;
+  const box = `<aside class="quickpicks" aria-labelledby="qp-h"><p class="quickpicks__h" id="qp-h">Quick picks</p>
+  <table><thead><tr><th scope="col">For</th><th scope="col">The splurge</th><th scope="col">The everyday</th></tr></thead><tbody>${rows.join("")}</tbody></table></aside>`;
+  const i = html.indexOf('<h2 id="');
+  return i < 0 ? html : html.slice(0, i) + box + "\n" + html.slice(i);
+}
+
+// FAQ: an h2 called FAQ (or "Frequently asked questions") followed by h3 questions.
+function faqBlock(html) {
+  const faq = [];
+  const out = html.replace(/<h2 id="([^"]+)">(FAQ|FAQs|Frequently asked questions|Your questions, answered)<\/h2>([\s\S]*?)(?=<h2 id="|$)/i, (m, id, title, rest) => {
+    const qs = rest.split(/(?=<h3>)/).filter((x) => x.startsWith("<h3>"));
+    qs.forEach((q) => {
+      const mm = q.match(/^<h3>([\s\S]*?)<\/h3>([\s\S]*)$/);
+      if (mm) faq.push({ q: mm[1].replace(/<[^>]+>/g, "").trim(), a: mm[2].replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim() });
+    });
+    return `<section class="faq" aria-labelledby="${id}"><h2 id="${id}">${title}</h2>${rest}</section>`;
+  });
+  return { html: out, faq };
+}
+
 // ---------- load posts ----------
 function loadPosts() {
   const dir = path.join(ROOT, "posts");
@@ -117,6 +168,7 @@ function loadPosts() {
       // A post that repeats its title as an H1 at the top: drop the duplicate.
       if (title) body = body.replace(new RegExp("^#\\s+" + title.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\s*\\n"), "");
 
+      const updated = data.updated ? (data.updated instanceof Date ? data.updated : new Date(String(data.updated).slice(0, 10))) : null;
       const fileDate = file.match(/(\d{4}-\d{2}-\d{2})/);
       const date = data.date instanceof Date ? data.date : new Date(data.date ? String(data.date).slice(0, 10) : fileDate ? fileDate[1] : Date.now());
 
@@ -125,8 +177,15 @@ function loadPosts() {
       const section = sectionFor(data.category || guessSection(body));
 
       body = stripEmDashes(body);
-      const html = renderPicks(renderProducts(inlinePhotos(processLinks(marked.parse(body)))))
+      let html = headingIds(renderPicks(renderProducts(inlinePhotos(processLinks(marked.parse(body))))))
         .replace(/^\s*<p><em>([^<]*Amazon Associate[^<]*)<\/em><\/p>/i, '<p class="disclosure">$1</p>');
+      if (data.quickpicks !== false) html = quickPicks(html);
+      const faqOut = faqBlock(html);
+      html = faqOut.html;
+      if (data.verdict) {
+        const v = `<aside class="verdict"><p class="verdict__h">The short answer</p><p>${esc(stripEmDashes(String(data.verdict)))}</p></aside>`;
+        html = /^\s*<p class="disclosure">/.test(html) ? html.replace(/(<p class="disclosure">[\s\S]*?<\/p>)/, "$1" + v) : v + html;
+      }
       const text = html.replace(/<[^>]+>/g, " ");
       const words = text.split(/\s+/).filter(Boolean).length;
       const firstPara = (html.match(/<p>([\s\S]*?)<\/p>/) || [, ""])[1].replace(/<[^>]+>/g, "");
@@ -138,6 +197,9 @@ function loadPosts() {
         section, tags: data.tags || [], cover: data.cover || "", coverAlt: data.cover_alt || "",
         pinTitle: data.pin_title || "", pinDescription: data.pin_description || "",
         draft: data.draft === true,
+        updated: updated && !isNaN(updated) ? updated : null,
+        trending: data.trending === true,
+        faq: faqOut.faq,
         hasDisclosure: /amazon associate/i.test(body),
         hasShopLinks: /class="shop-link"/.test(html),
         readMinutes: Math.max(3, Math.round(words / 230)),
@@ -182,6 +244,8 @@ const motifs = {
   skincare: `<svg viewBox="0 0 160 160" aria-hidden="true"><path d="M58 62h44v76a8 8 0 0 1-8 8H66a8 8 0 0 1-8-8z"/><path d="M68 62V44h24v18M72 44V26h16v18M80 26c0-8 8-10 16-10"/></svg>`,
   makeup: `<svg viewBox="0 0 160 160" aria-hidden="true"><path d="M58 92h44v54H58zM66 92V62h28v30"/><path d="M68 62V34l24-16v44"/></svg>`,
   "hair-and-tools": `<svg viewBox="0 0 160 160" aria-hidden="true"><path d="M40 24h80v44H40zM52 68v68M68 68v68M84 68v68M100 68v68M116 68v48M44 68v48"/></svg>`,
+  "k-beauty": `<svg viewBox="0 0 160 160" aria-hidden="true"><path d="M52 70h56v68a8 8 0 0 1-8 8H60a8 8 0 0 1-8-8z"/><path d="M60 70V56h40v14M70 56V40h20v16M52 100h56"/></svg>`,
+  "gift-guides": `<svg viewBox="0 0 160 160" aria-hidden="true"><path d="M32 70h96v76H32zM26 50h108v20H26zM80 50v96"/><path d="M80 50c-10-24-38-24-34-6 2 8 22 6 34 6zM80 50c10-24 38-24 34-6-2 8-22 6-34 6z"/></svg>`,
   fragrance: `<svg viewBox="0 0 160 160" aria-hidden="true"><path d="M46 64h68a8 8 0 0 1 8 8v64a8 8 0 0 1-8 8H46a8 8 0 0 1-8-8V72a8 8 0 0 1 8-8z"/><path d="M68 64V48h24v16M64 48V30h32v18"/></svg>`,
 };
 
@@ -323,9 +387,9 @@ function homePage(posts) {
   const hero = `<section class="hero wrap" aria-labelledby="hero-h">
   <div class="hero__text">
     <h1 id="hero-h" class="hero__title"><span>The little luxuries</span><strong>Worth it</strong><span>and the everyday essentials that are too</span></h1>
-    <p class="hero__lede">Skincare, makeup, hair and fragrance from Amazon, with one splurge and one everyday pick for every step of your routine.</p>
+    <p class="hero__lede">Skincare, K-beauty, makeup, hair and fragrance from Amazon, with one splurge and one everyday pick for every step of your routine.</p>
     <div class="hero__actions">
-      <a class="btn btn--peach" href="/skincare/">Start with skincare</a>
+      <a class="btn btn--peach" href="/gift-guides/">Shop the gift guides</a>
       ${site.newsletter ? `<a class="btn btn--line" href="#letter-h">Get The Sunday Ritual</a>` : `<a class="btn btn--line" href="/archive/">Read the stories</a>`}
     </div>
   </div>
@@ -351,6 +415,13 @@ function homePage(posts) {
   }).join("")}</div>
 </section>`;
 
+  const hot = posts.filter((p) => p.trending).slice(0, 3);
+  const trending = !hot.length ? "" : `<section class="trending wrap" aria-labelledby="trend-h">
+  <p class="kicker">What everyone is searching for</p>
+  <h2 id="trend-h" class="h-sec">${esc(site.trendingLabel || "Trending now")}</h2>
+  <div class="grid">${hot.map(card).join("")}</div>
+</section>`;
+
   const blog = !latest.length ? "" : `<section class="latest wrap" aria-labelledby="latest-h">
   <p class="kicker">Fresh from the blog</p>
   <h2 id="latest-h" class="h-sec">Latest stories</h2>
@@ -367,7 +438,7 @@ function homePage(posts) {
   </div>
 </section>`;
 
-  const body = `${hero}\n${welcome}\n\n${sections}\n${blog}\n${freebies}\n${newsletter}`;
+  const body = `${hero}\n${trending}\n${welcome}\n\n${sections}\n${blog}\n${freebies}\n${newsletter}`;
   write("index.html", layout({ path: "/", body, description: site.description }));
 }
 
@@ -407,11 +478,14 @@ function postPages(posts, drafts = []) {
 
     const jsonld = `<script type="application/ld+json">${JSON.stringify({
       "@context": "https://schema.org", "@type": "BlogPosting", headline: post.title, description: post.description,
-      datePublished: post.date.toISOString(), dateModified: post.date.toISOString(), author: { "@type": "Person", name: site.author, url: SITE_URL + "/about/" },
+      datePublished: post.date.toISOString(), dateModified: (post.updated && post.updated > post.date ? post.updated : post.date).toISOString(), author: { "@type": "Person", name: site.author, url: SITE_URL + "/about/" },
       publisher: { "@type": "Organization", name: site.name, url: SITE_URL + "/", logo: { "@type": "ImageObject", url: SITE_URL + "/favicon.svg" } },
       mainEntityOfPage: { "@type": "WebPage", "@id": pageUrl }, url: pageUrl, articleSection: post.section.name,
       ...(post.tags.length ? { keywords: post.tags.join(", ") } : {}), ...(coverAbs ? { image: [coverAbs] } : {}),
-    })}</script>`;
+    })}</script>${post.faq.length ? `\n<script type="application/ld+json">${JSON.stringify({
+      "@context": "https://schema.org", "@type": "FAQPage",
+      mainEntity: post.faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+    })}</script>` : ""}`;
 
     const banner = post.draft ? `<div class="draft-banner wrap">Draft preview: only people with this link can see it. It is not on the home page, the section pages or Google yet.</div>` : "";
     const body = `${banner}<article class="post">
@@ -419,7 +493,7 @@ function postPages(posts, drafts = []) {
     <a class="post__section post__section--${post.section.slug}" href="/${post.section.slug}/">${esc(post.section.name)}</a>
     <h1>${esc(post.title)}</h1>
     ${post.subtitle ? `<p class="post__dek">${esc(post.subtitle)}</p>` : ""}
-    <p class="meta">By ${esc(site.author)}. <time datetime="${post.date.toISOString().slice(0, 10)}">${formatDate(post.date)}</time>, ${post.readMinutes} min read</p>
+    <p class="meta">By <a href="/about/">${esc(site.author)}</a>. <time datetime="${post.date.toISOString().slice(0, 10)}">${formatDate(post.date)}</time>${post.updated && post.updated > post.date ? `, updated <time datetime="${post.updated.toISOString().slice(0, 10)}">${formatDate(post.updated)}</time>` : ""}, ${post.readMinutes} min read</p>
   </header>
   <div class="post__cover wrap">${cover(post, "lg")}</div>
   <div class="prose">
@@ -429,6 +503,10 @@ function postPages(posts, drafts = []) {
   <footer class="post__foot prose">
     ${post.tags.length ? `<p class="tags">${post.tags.map((t) => `<span>${esc(t)}</span>`).join("")}</p>` : ""}
     <a class="button button--ghost" href="${pinHref}" target="_blank" rel="noopener">Save this story to Pinterest</a>
+    <aside class="byline-box">
+      <p class="byline-box__h">Why trust these picks</p>
+      <p>${esc(site.authorBio || "")} <a href="/about/">More about me</a>.</p>
+    </aside>
   </footer>
 </article>
 ${more.length ? `<section class="wrap recent" aria-labelledby="more-h"><h2 id="more-h" class="rule-h">Keep reading</h2><div class="grid">${more.map(card).join("")}</div></section>` : ""}

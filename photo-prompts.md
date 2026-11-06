@@ -27,3 +27,10 @@ Make all 14 photos in one ChatGPT chat. Save each as the file name shown.
 | at-home-blowout-splurge-or-save-2.jpg | Landscape 3:2 | The back of a woman's hair in smooth bouncy waves over a black silk robe, soft window light. |
 | perfume-gift-guide-luxury-everyday.jpg | Landscape 4:3 | An unbranded faceted perfume bottle tied with a blush silk ribbon on a black tray. |
 | perfume-gift-guide-luxury-everyday-2.jpg | Landscape 3:2 | A small stack of black and blush gift boxes with an unbranded perfume bottle on top. |
+
+## New section photos (Nov 2026)
+
+| File name | Size | Prompt |
+| --- | --- | --- |
+| section-k-beauty.jpg | Square | A row of unbranded glass skincare bottles and a jelly sheet mask pouch on blush marble, with soft daylight and a sprig of white blossom. |
+| section-gift-guides.jpg | Square | Unbranded beauty minis and a perfume bottle tucked into a black gift box with blush tissue and a silk ribbon, soft festive light. |
