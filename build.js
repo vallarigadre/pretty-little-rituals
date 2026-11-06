@@ -94,10 +94,16 @@ function inlinePhotos(html) {
 }
 
 // "**The splurge:** ..." and "**The everyday:** ..." paragraphs become labelled pick cards.
+// A product photo written at the start of a pick (![alt](/images/x.jpg)) shows as a small photo
+// beside the text once the file is in static/images, and stays hidden until then.
 function renderPicks(html) {
-  return html.replace(/<p><strong>The (splurge|everyday):?<\/strong>:?\s*/gi, (m, kind) => {
+  return html.replace(/<p><strong>The (splurge|everyday):?<\/strong>:?\s*(?:<img src="(\/images\/[^"]+)" alt="([^"]*)"[^>]*>\s*)?([\s\S]*?)<\/p>/gi, (m, kind, src, alt, rest) => {
     const k = kind.toLowerCase();
-    return `<p class="pick pick--${k}"><span class="pick__label">The ${k}</span>`;
+    const photo = src && fs.existsSync(path.join(ROOT, "static", src));
+    const text = `<span class="pick__label">The ${k}</span>${rest}`;
+    return photo
+      ? `<div class="pick pick--${k} pick--photo"><img class="pick__img" src="${src}" alt="${alt}" loading="lazy" width="200" height="200"><p>${text}</p></div>`
+      : `<p class="pick pick--${k}">${text}</p>`;
   });
 }
 
@@ -120,7 +126,7 @@ function quickPicks(html) {
     const h = part.match(/^<h2 id="([^"]+)">([\s\S]*?)<\/h2>/);
     if (!h) continue;
     const pick = (kind) => {
-      const m = part.match(new RegExp(`<p class="pick pick--${kind}">[\\s\\S]*?(<a href="[^"]+"[^>]*>[\\s\\S]*?<\\/a>)`));
+      const m = part.match(new RegExp(`class="pick pick--${kind}[^"]*">[\\s\\S]*?(<a href="[^"]+"[^>]*>[\\s\\S]*?<\\/a>)`));
       return m ? m[1] : "";
     };
     const splurge = pick("splurge"), everyday = pick("everyday");

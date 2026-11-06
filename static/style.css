@@ -297,3 +297,9 @@ h1, h2, h3 { font-family: var(--head); font-weight: 400; line-height: 1.15; lett
   .quickpicks td:nth-of-type(1)::before { content: "Splurge: "; font-weight: 600; }
   .quickpicks td:nth-of-type(2)::before { content: "Everyday: "; font-weight: 600; }
 }
+
+/* Pick cards with a small product photo */
+.prose .pick--photo { display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 1.1rem; align-items: start; }
+.prose .pick--photo p { margin: 0; }
+.pick__img { width: 120px; height: 120px; object-fit: cover; display: block; }
+@media (max-width: 480px) { .prose .pick--photo { grid-template-columns: 88px minmax(0, 1fr); gap: .9rem; } .pick__img { width: 88px; height: 88px; } }
