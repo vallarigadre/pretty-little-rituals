@@ -216,8 +216,8 @@ const newsletter = !site.newsletter ? "" : `<section class="letter" aria-labelle
     <p class="kicker">The Sunday Ritual</p>
     <h2 id="letter-h">One splurge, one everyday find, every Sunday</h2>
     <p>The week's new stories and the Amazon beauty finds worth a look. One short letter, never spam.</p>
-    <form name="newsletter" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" class="letter__form">
-      <input type="hidden" name="form-name" value="newsletter">
+    ${process.env.CF_PAGES ? `<form name="newsletter" method="POST" action="/api/subscribe" class="letter__form">` : `<form name="newsletter" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" class="letter__form">
+      <input type="hidden" name="form-name" value="newsletter">`}
       <p class="hp"><label>Company <input name="company"></label></p>
       <label for="email" class="sr">Email address</label>
       <input id="email" type="email" name="email" placeholder="you@example.com" required autocomplete="email">

@@ -1,0 +1,8 @@
+name = "prettylittlerituals"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "prettylittlerituals"
+database_id = "410a6cdd-ac10-4d3f-9d25-9f9f64112f15"
