@@ -389,7 +389,7 @@ function homePage(posts) {
     <h1 id="hero-h" class="hero__title"><span>The little luxuries</span><strong>Worth it</strong><span>and the everyday essentials that are too</span></h1>
     <p class="hero__lede">Skincare, K-beauty, makeup, hair and fragrance from Amazon, with one splurge and one everyday pick for every step of your routine.</p>
     <div class="hero__actions">
-      <a class="btn btn--peach" href="/gift-guides/">See the gift guides</a>
+      <a class="btn btn--peach" href="/gift-guides/">Shop the gift guides</a>
       ${site.newsletter ? `<a class="btn btn--line" href="#letter-h">Get The Sunday Ritual</a>` : `<a class="btn btn--line" href="/archive/">Read the stories</a>`}
     </div>
   </div>
