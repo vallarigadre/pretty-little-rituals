@@ -389,7 +389,7 @@ function homePage(posts) {
     <h1 id="hero-h" class="hero__title"><span>The little luxuries</span><strong>Worth it</strong><span>and the everyday essentials that are too</span></h1>
     <p class="hero__lede">Skincare, K-beauty, makeup, hair and fragrance from Amazon, with one splurge and one everyday pick for every step of your routine.</p>
     <div class="hero__actions">
-      <a class="btn btn--peach" href="/gift-guides/">Shop the gift guides</a>
+      <a class="btn btn--peach" href="/gift-guides/">See the gift guides</a>
       ${site.newsletter ? `<a class="btn btn--line" href="#letter-h">Get The Sunday Ritual</a>` : `<a class="btn btn--line" href="/archive/">Read the stories</a>`}
     </div>
   </div>
@@ -415,7 +415,9 @@ function homePage(posts) {
   }).join("")}</div>
 </section>`;
 
+  // Trending row: only when it adds posts that are not already in Latest stories.
   const hot = posts.filter((p) => p.trending).slice(0, 3);
+  if (hot.every((p) => latest.includes(p))) hot.length = 0;
   const trending = !hot.length ? "" : `<section class="trending wrap" aria-labelledby="trend-h">
   <p class="kicker">What everyone is searching for</p>
   <h2 id="trend-h" class="h-sec">${esc(site.trendingLabel || "Trending now")}</h2>
@@ -438,7 +440,7 @@ function homePage(posts) {
   </div>
 </section>`;
 
-  const body = `${hero}\n${trending}\n${welcome}\n\n${sections}\n${blog}\n${freebies}\n${newsletter}`;
+  const body = `${hero}\n${welcome}\n\n${sections}\n${trending}\n${blog}\n${freebies}\n${newsletter}`;
   write("index.html", layout({ path: "/", body, description: site.description }));
 }
 
