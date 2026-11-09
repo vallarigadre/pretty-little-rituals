@@ -25,9 +25,9 @@ This year's gift guides lean practical but pretty: lip treatments, hand cream an
 
 A lip mask is the little luxury that almost everyone uses, which makes it one of the safest beauty gifts there is. It also sits beautifully in a stocking or on top of a bigger present.
 
-**The splurge:** [LANEIGE Lip Sleeping Mask](https://www.amazon.com/dp/B07XXPHQZK?tag=creativedi03c-20) is the cult Korean overnight lip treatment in its glossy little jar. Laneige lists shea butter, murumuru butter and vitamin C in the formula, and the texture is a thick, cushiony balm you smooth on before bed so lips feel soft by morning. The berry scent is the classic, and the little jar looks polished and gift ready on its own.
+**The splurge:** [LANEIGE Lip Sleeping Mask](https://link.amazon/B08XPLahw) is the cult Korean overnight lip treatment in its glossy little jar. Laneige lists shea butter, murumuru butter and vitamin C in the formula, and the texture is a thick, cushiony balm you smooth on before bed so lips feel soft by morning. The berry scent is the classic, and the little jar looks polished and gift ready on its own.
 
-**The everyday:** [e.l.f. Glow Reviver Lip Oil](https://www.amazon.com/dp/B0CL8W1HZQ?tag=creativedi03c-20) in Pink Quartz is a tinted lip oil with a high-shine finish that the listing describes as hydrating and non-sticky. It gives a sheer wash of pink color with a glassy gloss, which makes it a fun gift for the friend who loves a glossy lip all day, not just at night.
+**The everyday:** [e.l.f. Glow Reviver Lip Oil](https://link.amazon/B0f94APPs) in Pink Quartz is a tinted lip oil with a high-shine finish that the listing describes as hydrating and non-sticky. It gives a sheer wash of pink color with a glassy gloss, which makes it a fun gift for the friend who loves a glossy lip all day, not just at night.
 
 Pick Laneige for the woman who loves a bedtime ritual and a pretty jar on her nightstand. Pick the e.l.f. oil for the one who wants shine and a hint of color on the go.
 
@@ -35,9 +35,9 @@ Pick Laneige for the woman who loves a bedtime ritual and a pretty jar on her ni
 
 Hand cream is the gift that gets carried everywhere: handbag, desk drawer, car console.
 
-**The splurge:** [L'OCCITANE Hand Cream Classics Trio Gift Set](https://www.amazon.com/dp/B084Q6GNX8?tag=creativedi03c-20) is the hand cream set beauty editors have recommended for years. The listing describes it as enriched with shea butter for dry hands, and the slim metal tubes in a neat gift box look instantly elegant.
+**The splurge:** [L'OCCITANE Hand Cream Classics Trio Gift Set](https://link.amazon/B0g6yjWGZ) is the hand cream set beauty editors have recommended for years. The listing describes it as enriched with shea butter for dry hands, and the slim metal tubes in a neat gift box look instantly elegant.
 
-**The everyday:** [Burt's Bees Shea Butter Hand Cream Trio](https://www.amazon.com/dp/B09ZVNM5TP?tag=creativedi03c-20) includes three scents: Lavender and Honey, Watermelon and Mint, and Wild Rose and Berry. The shea butter base and the cheerful scents make it an easy gift for teachers, neighbors and anyone you want to treat without overthinking.
+**The everyday:** [Burt's Bees Shea Butter Hand Cream Trio](https://link.amazon/B0bvVAKJb) includes three scents: Lavender and Honey, Watermelon and Mint, and Wild Rose and Berry. The shea butter base and the cheerful scents make it an easy gift for teachers, neighbors and anyone you want to treat without overthinking.
 
 Pick L'Occitane when you want the box to feel luxurious from the outside in. Pick Burt's Bees when you are gifting several people and want something cozy and familiar.
 
@@ -45,9 +45,9 @@ Pick L'Occitane when you want the box to feel luxurious from the outside in. Pic
 
 Body care sets look abundant, which is exactly why they feel expensive.
 
-**The splurge:** [Sol de Janeiro Bum Bum Jet Set](https://www.amazon.com/dp/B0B4HKNDLQ?tag=creativedi03c-20) bundles travel sizes from the brand's Brazilian Bum Bum line, built around the famous Bum Bum Cream with its warm pistachio and salted caramel scent. It is the set fragrance and body care fans ask for by name, and the bright packaging makes it look like a vacation in a box.
+**The splurge:** [Sol de Janeiro Bum Bum Jet Set](https://link.amazon/B0gDD6Jlx) bundles travel sizes from the brand's Brazilian Bum Bum line, built around the famous Bum Bum Cream with its warm pistachio and salted caramel scent. It is the set fragrance and body care fans ask for by name, and the bright packaging makes it look like a vacation in a box.
 
-**The everyday:** [Tree Hut Shea Sugar Scrub Mini Trio Kit](https://www.amazon.com/dp/B0GTRJVTD5?tag=creativedi03c-20) brings three travel-size sugar scrubs, made with shea butter and listed as vegan and paraben free. Scrubs are a gift people love but rarely buy themselves.
+**The everyday:** [Tree Hut Shea Sugar Scrub Mini Trio Kit](https://link.amazon/B004bUpCw) brings three travel-size sugar scrubs, made with shea butter and listed as vegan and paraben free. Scrubs are a gift people love but rarely buy themselves.
 
 Pick Sol de Janeiro for the friend who loves a signature scent and a moisturizer that smells like dessert. Pick Tree Hut for the one who loves a slow Sunday shower.
 
@@ -57,9 +57,9 @@ Pick Sol de Janeiro for the friend who loves a signature scent and a moisturizer
 
 A cleansing balm is skincare that feels like a treat. It makes the evening routine feel a little indulgent.
 
-**The splurge:** [ELEMIS Pro-Collagen Cleansing Balm travel size](https://www.amazon.com/dp/B0F9JKJ614?tag=creativedi03c-20) is the 20g version of Elemis's best-known cleanser, described on the listing as a 3-in-1 hydrating facial cleanser and makeup remover. The travel size lets her try a true luxury skincare icon, and the little pot looks sweet tucked into a gift bag.
+**The splurge:** [ELEMIS Pro-Collagen Cleansing Balm travel size](https://link.amazon/B0d8LFfhh) is the 20g version of Elemis's best-known cleanser, described on the listing as a 3-in-1 hydrating facial cleanser and makeup remover. The travel size lets her try a true luxury skincare icon, and the little pot looks sweet tucked into a gift bag.
 
-**The everyday:** [BANILA CO Clean it Zero Original Cleansing Balm](https://www.amazon.com/dp/B08358G9LY?tag=creativedi03c-20) is one of the best-known K-beauty cleansing balms. The listing describes a balm that melts makeup and sunscreen as you massage it over dry skin, then rinses away with water. It is a full-size jar, so she gets plenty to enjoy, and reviewers often call it a gentle, easy first cleanse.
+**The everyday:** [BANILA CO Clean it Zero Original Cleansing Balm](https://link.amazon/B0fJofqDS) is one of the best-known K-beauty cleansing balms. The listing describes a balm that melts makeup and sunscreen as you massage it over dry skin, then rinses away with water. It is a full-size jar, so she gets plenty to enjoy, and reviewers often call it a gentle, easy first cleanse.
 
 Pick Elemis for a skincare lover who would enjoy trying a prestige favorite. Pick Banila Co for the friend who already loves Korean skincare or simply wants a big, generous jar.
 
@@ -69,9 +69,9 @@ Pick Elemis for a skincare lover who would enjoy trying a prestige favorite. Pic
 
 Hair accessories might be the most underrated luxury gift. They are small, they wrap flat, and silk feels lavish every time.
 
-**The splurge:** [Slip Silk Skinny Scrunchies in Black](https://www.amazon.com/dp/B0BSLW5XFW?tag=creativedi03c-20) are made of 100% mulberry silk, and the listing describes them as designed to be gentle on hair, with no crease and less breakage. Slip is the brand behind the famous silk pillowcases, so the name alone makes these feel like a boutique gift.
+**The splurge:** [Slip Silk Skinny Scrunchies in Black](https://link.amazon/B0caOXL58) are made of 100% mulberry silk, and the listing describes them as designed to be gentle on hair, with no crease and less breakage. Slip is the brand behind the famous silk pillowcases, so the name alone makes these feel like a boutique gift.
 
-**The everyday:** [Kitsch Satin Scrunchies](https://www.amazon.com/dp/B08PDZM5QF?tag=creativedi03c-20) bring a similar smooth, crease-free idea in satin, and the listing calls out no creases and frizz control. They are a sweet add-on to a bigger present or a lovely small gift on their own.
+**The everyday:** [Kitsch Satin Scrunchies](https://link.amazon/B09Zb0u1E) bring a similar smooth, crease-free idea in satin, and the listing calls out no creases and frizz control. They are a sweet add-on to a bigger present or a lovely small gift on their own.
 
 Pick Slip for the friend who loves silk and has already mentioned her pillowcase. Pick Kitsch for stocking stuffers and anyone who loses hair ties constantly.
 
@@ -79,7 +79,7 @@ Pick Slip for the friend who loves silk and has already mentioned her pillowcase
 
 ## Also lovely
 
-**Also lovely:** [Clinique Black Honey Lip Gift Set](https://www.amazon.com/dp/B0H8WBZF7Z?tag=creativedi03c-20) pairs the much-loved Almost Lipstick in Black Honey with a Pop Lip + Cheek Oil and a Quickline Lip Liner. Black Honey is famous for its sheer berry tint that suits a wide range of skin tones, which makes this a smart pick when you don't know her makeup taste.
+**Also lovely:** [Clinique Black Honey Lip Gift Set](https://link.amazon/B0a1lI2ji) pairs the much-loved Almost Lipstick in Black Honey with a Pop Lip + Cheek Oil and a Quickline Lip Liner. Black Honey is famous for its sheer berry tint that suits a wide range of skin tones, which makes this a smart pick when you don't know her makeup taste.
 
 ## How to make a small gift look expensive
 
