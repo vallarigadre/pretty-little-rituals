@@ -26,9 +26,9 @@ This year's fragrance mood leans cozy. Gourmand notes like vanilla, pistachio an
 
 Fresh scents suit the woman who likes crisp white shirts, open windows and a just-showered feeling. They tend to read as easy and polished, which makes them a safe pick for a sister, a coworker or anyone who wears perfume every day.
 
-**The splurge:** [Dolce & Gabbana Light Blue Eau de Toilette](https://www.amazon.com/dp/B015X2LC3S?tag=creativedi03c-20) is a citrus and green apple classic with listed notes of Sicilian lemon, bellflower, jasmine and a soft cedar and musk base. It has been a gifting favorite for years because it feels like a sunny day in a bottle, and the sky blue cap looks pretty under a tree.
+**The splurge:** [Dolce & Gabbana Light Blue Eau de Toilette](https://link.amazon/B0iGg2t87) is a citrus and green apple classic with listed notes of Sicilian lemon, bellflower, jasmine and a soft cedar and musk base. It has been a gifting favorite for years because it feels like a sunny day in a bottle, and the sky blue cap looks pretty under a tree.
 
-**The everyday:** [Clean Reserve Skin Eau de Parfum](https://www.amazon.com/dp/B085312TVM?tag=creativedi03c-20) is a soft, musky skin scent: the kind of fragrance that smells like her, only a little nicer. It keeps the airy, clean feeling of Light Blue in a quieter form she can wear to the office without a second thought.
+**The everyday:** [Clean Reserve Skin Eau de Parfum](https://link.amazon/B04vsDkIo) is a soft, musky skin scent: the kind of fragrance that smells like her, only a little nicer. It keeps the airy, clean feeling of Light Blue in a quieter form she can wear to the office without a second thought.
 
 Pick Light Blue if she loves bright citrus and summer vacations. Pick Clean Reserve Skin if she prefers scents that sit close and never announce themselves.
 
@@ -36,9 +36,9 @@ Pick Light Blue if she loves bright citrus and summer vacations. Pick Clean Rese
 
 Sweet scents are having a big moment, and this is where the gourmand trend lives. Think vanilla, caramel, praline and nutty notes. These suit the woman who loves cozy sweaters, a good latte and a scent people lean in to ask about.
 
-**The splurge:** [Lancôme La Vie Est Belle Eau de Parfum gift set](https://www.amazon.com/dp/B0CV8R76CF?tag=creativedi03c-20) pairs the full size bottle with a travel spray, which makes it a gift and a handbag treat in one. The listed notes are iris, earthy patchouli, warm vanilla and spun sugar, so it is sweet, but the iris keeps it grown up and elegant.
+**The splurge:** [Lancôme La Vie Est Belle Eau de Parfum gift set](https://link.amazon/B05o21Gfi) pairs the full size bottle with a travel spray, which makes it a gift and a handbag treat in one. The listed notes are iris, earthy patchouli, warm vanilla and spun sugar, so it is sweet, but the iris keeps it grown up and elegant.
 
-**The everyday:** [Sol de Janeiro Cheirosa 62 Hair & Body Fragrance Mist](https://www.amazon.com/dp/B09W18N3GT?tag=creativedi03c-20) has the warm pistachio and salted caramel scent that people always ask about. It's a mist, so she can spritz it on her hair, her scarf or her skin all day long.
+**The everyday:** [Sol de Janeiro Cheirosa 62 Hair & Body Fragrance Mist](https://link.amazon/B0gpDwKBp) has the warm pistachio and salted caramel scent that people always ask about. It's a mist, so she can spritz it on her hair, her scarf or her skin all day long.
 
 Pick La Vie Est Belle for the woman who wears one signature perfume and loves a beautiful bottle. Pick Cheirosa 62 for the one who likes to play, spritz often and smell like dessert.
 
@@ -48,9 +48,9 @@ Pick La Vie Est Belle for the woman who wears one signature perfume and loves a 
 
 Warm scents are for evenings, dinner dates and the friend who always wears a red lip. They lean on coffee, spice, amber and vanilla, and they tend to feel rich and noticeable in cold weather.
 
-**The splurge:** [Yves Saint Laurent Black Opium Eau de Parfum](https://www.amazon.com/dp/B00NBK5JHK?tag=creativedi03c-20) is coffee, vanilla and white flowers in one glossy black bottle. The listed notes also include pink pepper and pear up top, so it opens bright before settling into something dark and sweet. It's evening plans in fragrance form.
+**The splurge:** [Yves Saint Laurent Black Opium Eau de Parfum](https://link.amazon/B0hWodc0w) is coffee, vanilla and white flowers in one glossy black bottle. The listed notes also include pink pepper and pear up top, so it opens bright before settling into something dark and sweet. It's evening plans in fragrance form.
 
-**The everyday:** [Lattafa Khamrah Eau de Parfum](https://www.amazon.com/dp/B0B92Y18GT?tag=creativedi03c-20) comes from one of the Middle Eastern fragrance houses that have won over fragrance lovers for rich scents at an easier price. The listing describes vanilla, warm spice, amber and cinnamon, so it shares Black Opium's cozy, after-dark feeling with more of a spiced, holiday warmth. It's sold as unisex, which also makes it a fun pick to share.
+**The everyday:** [Lattafa Khamrah Eau de Parfum](https://link.amazon/B0ay65mfQ) comes from one of the Middle Eastern fragrance houses that have won over fragrance lovers for rich scents at an easier price. The listing describes vanilla, warm spice, amber and cinnamon, so it shares Black Opium's cozy, after-dark feeling with more of a spiced, holiday warmth. It's sold as unisex, which also makes it a fun pick to share.
 
 Pick Black Opium if she loves designer classics and a polished, glamorous scent. Pick Khamrah if she likes to try what fragrance fans are talking about and enjoys a big, spiced sillage.
 
@@ -58,9 +58,9 @@ Pick Black Opium if she loves designer classics and a polished, glamorous scent.
 
 When you don't know her taste, minis are the kindest gift of all. She gets to try a few scents, find a favorite, and wear the minis in her handbag or gym bag long after the holidays. Mini perfume sets are one of the biggest gifting trends this year for exactly that reason.
 
-**The splurge:** [Lancôme Women's Perfume Travel Bundle](https://www.amazon.com/dp/B0C59Y8VBQ?tag=creativedi03c-20) includes travel sprays of La Vie Est Belle and Idôle, so she can try a sweet, iris-led scent and a fresher rose and musk scent side by side. It's a lovely way to give a designer house without guessing at one bottle.
+**The splurge:** [Lancôme Women's Perfume Travel Bundle](https://link.amazon/B00Cooo1y) includes travel sprays of La Vie Est Belle and Idôle, so she can try a sweet, iris-led scent and a fresher rose and musk scent side by side. It's a lovely way to give a designer house without guessing at one bottle.
 
-**The everyday:** [By Rosie Jane Discovery Mini Perfume Set](https://www.amazon.com/dp/B0DMFWJ6SM?tag=creativedi03c-20) is a seven piece travel size set with scents including Missy, Dulce, Leila Lou, James, Lake and Dylan. It covers several moods in one box, so it works well for a friend whose taste you're still learning.
+**The everyday:** [By Rosie Jane Discovery Mini Perfume Set](https://link.amazon/B0gM8C4Ej) is a seven piece travel size set with scents including Missy, Dulce, Leila Lou, James, Lake and Dylan. It covers several moods in one box, so it works well for a friend whose taste you're still learning.
 
 Pick the Lancôme bundle if she already loves designer fragrance. Pick the Rosie Jane set if she likes softer, cleaner scents and enjoys trying something new.
 
