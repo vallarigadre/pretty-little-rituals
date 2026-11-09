@@ -28,7 +28,7 @@ How to apply it fast: put a pea-sized amount on the back of your hand. Dab it on
 
 **The splurge:** [Charlotte Tilbury Hollywood Flawless Filter](https://link.amazon/B0gMD778W) is the one you have seen everywhere. It works as a primer, a sheer complexion booster or a liquid highlighter, and it comes in a wide shade range so you can wear it all over or just on the high points. It arrived in Amazon's Premium Beauty store in 2025.
 
-**The everyday:** [L'Oréal Paris True Match Lumi Glotion](https://www.amazon.com/dp/B074PTZCNX?tag=creativedi03c-20) is a lotion-like glow enhancer with a similar lit-from-within finish. It can go on the body too, which is handy for bare shoulders.
+**The everyday:** [L'Oréal Paris True Match Lumi Glotion](https://link.amazon/B05BKHzYy) is a lotion-like glow enhancer with a similar lit-from-within finish. It can go on the body too, which is handy for bare shoulders.
 
 Pick the Flawless Filter if you want one bottle that can act as a base on its own and you like a soft-focus look. Pick Lumi Glotion if you want a natural sheen, like to mix products, or plan to glow up your collarbones as well.
 
@@ -38,7 +38,7 @@ Holiday light is flattering to a warmer flush, and red blush is one of the bigge
 
 How to apply it fast: a liquid or cream blush is quicker than powder. Dot two or three small dots on the apples of your cheeks, then tap upward toward your temples with your fingers. Start with less than you think.
 
-**The splurge:** [Charlotte Tilbury Pillow Talk Matte Beauty Blush Wand](https://www.amazon.com/dp/B0FHMFM1SV?tag=creativedi03c-20) has a cushion applicator and a soft-matte, blurred finish. It is a small piece of everyday luxury in your bag.
+**The splurge:** [Charlotte Tilbury Pillow Talk Matte Beauty Blush Wand](https://link.amazon/B0eKKt3az) has a cushion applicator and a soft-matte, blurred finish. It is a small piece of everyday luxury in your bag.
 
 **The everyday:** [e.l.f. Halo Glow Blush Beauty Wand](https://link.amazon/B0jeJoOg2) offers a similar wand applicator with a more dewy finish. The shade Berry Radiant leans into the red blush trend without being too bright.
 
