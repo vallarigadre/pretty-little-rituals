@@ -25,9 +25,9 @@ Below you'll find the four lip formats people are reaching for right now, each w
 
 An overnight mask is a thick, cushiony balm you smooth on before bed, so lips wake up feeling soft. It's the gift for the friend who always has dry, wintery lips, or for anyone who loves a nighttime routine.
 
-**The splurge:** [LANEIGE Lip Sleeping Mask](https://www.amazon.com/dp/B07XXPHQZK?tag=creativedi03c-20) is the overnight mask that started the whole trend, and it still feels like a treat. It's a cult favorite for a reason: one jar sits on the nightstand all winter, and it's the kind of gift that gets an "oh, I've wanted this" when it's unwrapped.
+**The splurge:** [LANEIGE Lip Sleeping Mask](https://link.amazon/B092nuAOW) is the overnight mask that started the whole trend, and it still feels like a treat. It's a cult favorite for a reason: one jar sits on the nightstand all winter, and it's the kind of gift that gets an "oh, I've wanted this" when it's unwrapped.
 
-**The everyday:** [Burt's Bees Original Overnight Intensive Lip Treatment](https://www.amazon.com/dp/B078JD3TFP?tag=creativedi03c-20) is a rich 0.25 oz night treatment made with vitamin E, ceramides and oils, according to the listing. It's a lovely, low-key way to give the overnight mask ritual without the luxury price.
+**The everyday:** [Burt's Bees Original Overnight Intensive Lip Treatment](https://link.amazon/B0btjs4FR) is a rich 0.25 oz night treatment made with vitamin E, ceramides and oils, according to the listing. It's a lovely, low-key way to give the overnight mask ritual without the luxury price.
 
 Pick LANEIGE for the friend who loves a beautiful vanity and a famous name. Pick Burt's Bees for a practical stocking stuffer, or for someone who keeps a balm in every coat pocket.
 
@@ -35,9 +35,9 @@ Pick LANEIGE for the friend who loves a beautiful vanity and a famous name. Pick
 
 Lip oils give a glassy, juicy shine with a more comfortable feel than a classic sticky gloss. They're the gift for the woman who likes a "my lips but better" look and reapplies all day.
 
-**The splurge:** [Clarins Lip Comfort Oil](https://www.amazon.com/dp/B0B1TX1S1K?tag=creativedi03c-20) is a high-shine lip oil made with 93% natural ingredients, as the listing describes, that soothes and hydrates for a glossy, cushioned look. It feels polished and grown up, the kind of thing she'd love to pull out of her handbag.
+**The splurge:** [Clarins Lip Comfort Oil](https://link.amazon/B0aZuGl9k) is a high-shine lip oil made with 93% natural ingredients, as the listing describes, that soothes and hydrates for a glossy, cushioned look. It feels polished and grown up, the kind of thing she'd love to pull out of her handbag.
 
-**The everyday:** [NOONI Korean Lip Oil Duo Set](https://www.amazon.com/dp/B0DF9Z5ZHX?tag=creativedi03c-20) is the K-beauty lip oil set that's been all over social media. The duo pairs Applecherry and Appleplum, two tinted shades with a glossy finish, so it's already a ready-made gift with no extra wrapping needed.
+**The everyday:** [NOONI Korean Lip Oil Duo Set](https://link.amazon/B02pm2KP4) is the K-beauty lip oil set that's been all over social media. The duo pairs Applecherry and Appleplum, two tinted shades with a glossy finish, so it's already a ready-made gift with no extra wrapping needed.
 
 Pick Clarins for a grown-up, classic gift with a luxury feel. Pick NOONI for the friend who loves K-beauty and a hint of color.
 
@@ -47,9 +47,9 @@ Pick Clarins for a grown-up, classic gift with a luxury feel. Pick NOONI for the
 
 Butter balms sit somewhere between a balm and a gloss: soft, slippery and shiny, with a cushiony feel. They're one of the biggest lip trends of the last few years, and they're easy to give.
 
-**The splurge:** [Summer Fridays Lip Butter Balm](https://www.amazon.com/dp/B0C42HJRBF?tag=creativedi03c-20) is the butter balm that turned a simple lip product into a cult favorite. The listing describes a vegan formula with nourishing shea butter that gives instant shine and a sheer wash of color in the Pink Sugar shade. Its playful look is a big part of the charm.
+**The splurge:** [Summer Fridays Lip Butter Balm](https://link.amazon/B0fomd7AO) is the butter balm that turned a simple lip product into a cult favorite. The listing describes a vegan formula with nourishing shea butter that gives instant shine and a sheer wash of color in the Pink Sugar shade. Its playful look is a big part of the charm.
 
-**The everyday:** [e.l.f. Squeeze Me Lip Balm](https://www.amazon.com/dp/B0C7W54K38?tag=creativedi03c-20) brings the same squeezy, glossy balm idea at an everyday price. The Vanilla Frosting shade sounds like dessert, which makes it a fun little extra for a stocking or a gift basket.
+**The everyday:** [e.l.f. Squeeze Me Lip Balm](https://link.amazon/B09VWPJjh) brings the same squeezy, glossy balm idea at an everyday price. The Vanilla Frosting shade sounds like dessert, which makes it a fun little extra for a stocking or a gift basket.
 
 Pick Summer Fridays for the beauty lover who follows every trend and loves a pretty object. Pick e.l.f. for teachers, coworkers and gift swaps where you want to give something fun and useful.
 
@@ -57,9 +57,9 @@ Pick Summer Fridays for the beauty lover who follows every trend and loves a pre
 
 A tinted lip gives a wash of color with a balm-like feel, so it's easy for anyone to wear. It's the gift for the woman who doesn't love bold lipstick but still wants to look a little more put together.
 
-**The splurge:** [Clinique Black Honey Lip Gift Set](https://www.amazon.com/dp/B0H8WBZF7Z?tag=creativedi03c-20) bundles the famous Almost Lipstick in Black Honey with a Pop Lip + Cheek Oil and a Quickline Lip Liner. Black Honey has been a cult shade for decades and keeps finding new fans online, because it's a sheer, berry tint that flatters so many skin tones.
+**The splurge:** [Clinique Black Honey Lip Gift Set](https://link.amazon/B03Xv4fY9) bundles the famous Almost Lipstick in Black Honey with a Pop Lip + Cheek Oil and a Quickline Lip Liner. Black Honey has been a cult shade for decades and keeps finding new fans online, because it's a sheer, berry tint that flatters so many skin tones.
 
-**The everyday:** [Maybelline Lifter Gloss](https://www.amazon.com/dp/B085S9N6JP?tag=creativedi03c-20) is a hydrating gloss with hyaluronic acid in the shade Ice, a sheer pink neutral. It gives a high-shine finish that looks fresh on its own or over a lip liner, and it's an easy stocking stuffer at the drugstore end of the range.
+**The everyday:** [Maybelline Lifter Gloss](https://link.amazon/B0heFMCNk) is a hydrating gloss with hyaluronic acid in the shade Ice, a sheer pink neutral. It gives a high-shine finish that looks fresh on its own or over a lip liner, and it's an easy stocking stuffer at the drugstore end of the range.
 
 Pick the Clinique set for a gift that feels complete in one box. Pick Lifter Gloss for someone who loves glossy lips and likes to keep one in every bag.
 
