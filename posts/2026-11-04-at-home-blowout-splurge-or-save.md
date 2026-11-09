@@ -25,9 +25,9 @@ This year the conversation has moved toward blow-dry brushes and thermal brushes
 
 This is the biggest decision and the biggest gap in price, so it comes first.
 
-**The splurge:** [Dyson Airwrap Multi-Styler Complete Long](https://www.amazon.com/dp/B0B61XH5YT?tag=creativedi03c-20) is the tool that made multi-styling a category. It comes with interchangeable attachments for drying, smoothing and wrapping curls, and it is designed to style with airflow rather than extreme heat. The long barrels suit hair past the shoulders. It is an investment, so check that the listing is sold by Dyson or Amazon before you buy.
+**The splurge:** [Dyson Airwrap Multi-Styler Complete Long](https://link.amazon/B0hI5MeY2) is the tool that made multi-styling a category. It comes with interchangeable attachments for drying, smoothing and wrapping curls, and it is designed to style with airflow rather than extreme heat. The long barrels suit hair past the shoulders. It is an investment, so check that the listing is sold by Dyson or Amazon before you buy.
 
-**The everyday:** [Revlon One-Step Hair Dryer and Volumizer Hot Air Brush](https://www.amazon.com/dp/B07Z5QSYDD?tag=creativedi03c-20) is the blow-dry brush that started the trend at home. The oval barrel dries and styles in one pass, so you get lift at the root and a soft bend at the ends without juggling a dryer and a brush.
+**The everyday:** [Revlon One-Step Hair Dryer and Volumizer Hot Air Brush](https://link.amazon/B0hVyD6BR) is the blow-dry brush that started the trend at home. The oval barrel dries and styles in one pass, so you get lift at the root and a soft bend at the ends without juggling a dryer and a brush.
 
 Choose the Airwrap if you want several looks from one tool (sleek, bouncy, curled) and will reach for it most days. Choose the Revlon if your goal is simply a smooth, full blowout and you would rather keep the budget for the steps below.
 
@@ -35,9 +35,9 @@ Choose the Airwrap if you want several looks from one tool (sleek, bouncy, curle
 
 If you already own a hair dryer you like, a thermal round brush is the most affordable route to a salon finish. The barrel warms under the dryer's airflow and acts like a gentle styling iron as you roll, which is how stylists build smoothness and shine.
 
-**The splurge:** [Olivia Garden NanoThermic Ceramic + Ion Round Thermal Brush](https://www.amazon.com/dp/B003IX97E6?tag=creativedi03c-20) is a salon favorite with a vented ceramic barrel and a light, balanced handle. This 1 3/4 inch size is a versatile middle ground for medium to long hair, big enough for body and small enough to bend the ends.
+**The splurge:** [Olivia Garden NanoThermic Ceramic + Ion Round Thermal Brush](https://link.amazon/B05tvIvgX) is a salon favorite with a vented ceramic barrel and a light, balanced handle. This 1 3/4 inch size is a versatile middle ground for medium to long hair, big enough for body and small enough to bend the ends.
 
-**The everyday:** [Conair Ceramic Round Brush for Blow-Drying](https://www.amazon.com/dp/B08WYCYPR9?tag=creativedi03c-20) pairs a vented ceramic barrel with boar bristles, which help grip and smooth each section as you dry. It is a simple, easy brush to start with.
+**The everyday:** [Conair Ceramic Round Brush for Blow-Drying](https://link.amazon/B0cwAFOxw) pairs a vented ceramic barrel with boar bristles, which help grip and smooth each section as you dry. It is a simple, easy brush to start with.
 
 Pick the Olivia Garden if you blow-dry often and want a brush that feels like the one at your salon. Pick the Conair if you are learning the round-brush technique and want to see whether you enjoy it first.
 
@@ -45,9 +45,9 @@ Pick the Olivia Garden if you blow-dry often and want a brush that feels like th
 
 Do not skip this step, whichever tool you own. Mist it through damp, towel-dried hair before any heat, then comb it through so every strand gets a light, even coat. It also helps with frizz control, because a smooth surface is easier to keep smooth.
 
-**The splurge:** [Kérastase Nutritive Heat Protecting Spray](https://www.amazon.com/dp/B0BZZK8VLS?tag=creativedi03c-20) brings the salon feel home, down to the scent. It is a lightweight spray made for dry hair, so it suits anyone who wants protection plus a softer, more polished finish.
+**The splurge:** [Kérastase Nutritive Heat Protecting Spray](https://link.amazon/B0gPPrRMp) brings the salon feel home, down to the scent. It is a lightweight spray made for dry hair, so it suits anyone who wants protection plus a softer, more polished finish.
 
-**The everyday:** [TRESemmé Thermal Creations Heat Tamer Spray](https://www.amazon.com/dp/B00AKDKUZ2?tag=creativedi03c-20) is a simple drugstore staple that is easy to restock. It is a light leave-in mist, so it works with any hair type and any tool in this post.
+**The everyday:** [TRESemmé Thermal Creations Heat Tamer Spray](https://link.amazon/B0izKEblQ) is a simple drugstore staple that is easy to restock. It is a light leave-in mist, so it works with any hair type and any tool in this post.
 
 If your hair is dry or color treated and you like a glossy finish, the Kérastase is a lovely treat. If you blow-dry several times a week and go through a bottle quickly, the TRESemmé keeps the habit affordable.
 
@@ -69,9 +69,9 @@ The tool matters, but the method decides whether you get a blowout or a puff. He
 
 The way you sleep decides whether your blowout lasts until day three. A smooth pillowcase creates less friction than cotton, so there is less rubbing on your hair while you turn. Pair it with a loose high bun or a soft scrunchie and you will wake up to fewer kinks.
 
-**The splurge:** [Slip Silk Queen Pillowcase](https://www.amazon.com/dp/B01JZVYDA2?tag=creativedi03c-20) is the luxury version, made from mulberry silk, and a lovely gift for anyone who has everything.
+**The splurge:** [Slip Silk Queen Pillowcase](https://link.amazon/B03dFYX1T) is the luxury version, made from mulberry silk, and a lovely gift for anyone who has everything.
 
-**The everyday:** [Kitsch Satin Pillowcase with Zipper](https://www.amazon.com/dp/B0BNW75BXF?tag=creativedi03c-20) offers the same smooth feel in an easy-care satin that goes straight in the washing machine. The zipper keeps it from sliding off in the night.
+**The everyday:** [Kitsch Satin Pillowcase with Zipper](https://link.amazon/B0gMD778W) offers the same smooth feel in an easy-care satin that goes straight in the washing machine. The zipper keeps it from sliding off in the night.
 
 Choose silk if you love natural fibers and do not mind gentle washing. Choose satin if you want something practical, easy to wash and simple to buy in pairs.
 
