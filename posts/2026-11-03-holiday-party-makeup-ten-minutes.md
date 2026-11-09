@@ -26,7 +26,7 @@ A luminous base does the work of a full face. Skin tints and glow lotions are ha
 
 How to apply it fast: put a pea-sized amount on the back of your hand. Dab it on the high points of your face (cheekbones, bridge of the nose, cupid's bow, center of the forehead) and blend with your fingertips. For a sheer all-over tint, mix a drop with your moisturizer and smooth it on like skincare.
 
-**The splurge:** [Charlotte Tilbury Hollywood Flawless Filter](https://www.amazon.com/dp/B0BJNZDJ5Z?tag=creativedi03c-20) is the one you have seen everywhere. It works as a primer, a sheer complexion booster or a liquid highlighter, and it comes in a wide shade range so you can wear it all over or just on the high points. It arrived in Amazon's Premium Beauty store in 2025.
+**The splurge:** [Charlotte Tilbury Hollywood Flawless Filter](https://link.amazon/B0gMD778W) is the one you have seen everywhere. It works as a primer, a sheer complexion booster or a liquid highlighter, and it comes in a wide shade range so you can wear it all over or just on the high points. It arrived in Amazon's Premium Beauty store in 2025.
 
 **The everyday:** [L'Oréal Paris True Match Lumi Glotion](https://www.amazon.com/dp/B074PTZCNX?tag=creativedi03c-20) is a lotion-like glow enhancer with a similar lit-from-within finish. It can go on the body too, which is handy for bare shoulders.
 
@@ -40,7 +40,7 @@ How to apply it fast: a liquid or cream blush is quicker than powder. Dot two or
 
 **The splurge:** [Charlotte Tilbury Pillow Talk Matte Beauty Blush Wand](https://www.amazon.com/dp/B0FHMFM1SV?tag=creativedi03c-20) has a cushion applicator and a soft-matte, blurred finish. It is a small piece of everyday luxury in your bag.
 
-**The everyday:** [e.l.f. Halo Glow Blush Beauty Wand](https://www.amazon.com/dp/B0C7SFN35S?tag=creativedi03c-20) offers a similar wand applicator with a more dewy finish. The shade Berry Radiant leans into the red blush trend without being too bright.
+**The everyday:** [e.l.f. Halo Glow Blush Beauty Wand](https://link.amazon/B0jeJoOg2) offers a similar wand applicator with a more dewy finish. The shade Berry Radiant leans into the red blush trend without being too bright.
 
 Choose the Charlotte Tilbury wand if you have oilier skin or prefer a velvety, matte cheek that sits well over powder. Choose e.l.f. if your skin is drier or you want your cheeks to match the glow from step one.
 
@@ -50,9 +50,9 @@ Here is the honest one: mascara dries out in a few months, so an expensive tube 
 
 How to apply it fast: wiggle the wand at the root of your lashes, then pull it straight up and out. One coat on the top lashes is enough for a party. If you have an extra minute, go back while it is still wet and add a little more to the outer corners for a lifted look.
 
-**The splurge:** [Lancôme Hypnôse Buildable and Volumizing Mascara](https://www.amazon.com/dp/B07BL1CJRN?tag=creativedi03c-20) is a long-standing department store favorite. It is known for a buildable formula, so you can stop at one coat for soft lashes or keep going for more drama.
+**The splurge:** [Lancôme Hypnôse Buildable and Volumizing Mascara](https://link.amazon/B00dBD3A3) is a long-standing department store favorite. It is known for a buildable formula, so you can stop at one coat for soft lashes or keep going for more drama.
 
-**The everyday:** [Maybelline Lash Sensational Sky High](https://www.amazon.com/dp/B08H3JPH74?tag=creativedi03c-20) is a well-loved drugstore tube with a flexible brush that reaches the tiny inner lashes. It is known for length more than heavy volume, which suits a quick, fluttery look.
+**The everyday:** [Maybelline Lash Sensational Sky High](https://link.amazon/B0iEcO52n) is a well-loved drugstore tube with a flexible brush that reaches the tiny inner lashes. It is known for length more than heavy volume, which suits a quick, fluttery look.
 
 Choose Hypnôse if you want fuller lashes and enjoy a little luxury at the mirror. Choose Sky High if you want length and separation and would rather put your money toward the lip.
 
@@ -64,9 +64,9 @@ The lip is what people see across the table, and a beautiful case is half the pl
 
 How to apply it fast: if you have a lip liner, trace just the center of your top and bottom lip and smudge it inward with your finger. Then apply lipstick straight from the bullet and press your lips together. For gloss, a single swipe on each lip is enough. Lip liner stains and lip stains are a big 2026 trend for a reason: a stained base under your lipstick or gloss keeps some color in place after a drink or two, even when the shine wears off.
 
-**The splurge:** [Charlotte Tilbury Matte Revolution lipstick in Pillow Talk](https://www.amazon.com/dp/B071CWB3CL?tag=creativedi03c-20) is a famous nude-pink in a rose gold case. Its modern matte finish is softer than a classic flat matte.
+**The splurge:** [Charlotte Tilbury Matte Revolution lipstick in Pillow Talk](https://link.amazon/B03zIZURd) is a famous nude-pink in a rose gold case. Its modern matte finish is softer than a classic flat matte.
 
-**The everyday:** [NYX Butter Gloss](https://www.amazon.com/dp/B01EDAADM2?tag=creativedi03c-20) has a soft, non-sticky shine and a shade range that makes it easy to buy two. Neutral shades like Eclair pair well with the rest of this look.
+**The everyday:** [NYX Butter Gloss](https://link.amazon/B06YuIgZJ) has a soft, non-sticky shine and a shade range that makes it easy to buy two. Neutral shades like Eclair pair well with the rest of this look.
 
 Choose Pillow Talk if you want a polished, put-together lip that photographs well and you love a heavy, pretty case. Choose Butter Gloss if you like a juicier shine or want to layer it over a liner or stain.
 
