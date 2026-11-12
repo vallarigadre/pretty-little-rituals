@@ -26,9 +26,9 @@ Here is a four-step winter hand and body kit, with a splurge and an everyday pic
 
 Hands take the most abuse in winter: cold air outside, hot water and soap inside, and very few oil glands on the backs of the hands to begin with. The trick is to keep a cream where you actually wash your hands, and to put it on right after drying, while skin is still slightly damp.
 
-**The splurge:** [Clarins Hand and Nail Treatment Cream](https://www.amazon.com/dp/B097N3RSX6?tag=creativedi03c-20) is a long-time luxury favorite made with shea butter, as the listing describes. It's a silky cream that's meant to care for both hands and nails, so it pulls double duty after a manicure. The tube looks lovely on a desk or a bedside table, and it's the kind of small luxury you reach for many times a day.
+**The splurge:** [Clarins Hand and Nail Treatment Cream](https://link.amazon/B003YkLzR) is a long-time luxury favorite made with shea butter, as the listing describes. It's a silky cream that's meant to care for both hands and nails, so it pulls double duty after a manicure. The tube looks lovely on a desk or a bedside table, and it's the kind of small luxury you reach for many times a day.
 
-**The everyday:** [O'Keeffe's Working Hands Hand Cream](https://www.amazon.com/dp/B00121UVU0?tag=creativedi03c-20) is the cult drugstore jar made for extremely dry hands. It's a concentrated cream, so a small amount goes a long way, and it's a favorite with people who work with their hands. The 3.4 oz jar lasts a long time.
+**The everyday:** [O'Keeffe's Working Hands Hand Cream](https://link.amazon/B073jSFYR) is the cult drugstore jar made for extremely dry hands. It's a concentrated cream, so a small amount goes a long way, and it's a favorite with people who work with their hands. The 3.4 oz jar lasts a long time.
 
 Choose the Clarins if you want a pretty, luxurious ritual and care about your nails too. Choose O'Keeffe's if your hands feel truly dry and tight, or for anyone in the family who washes their hands constantly.
 
@@ -36,9 +36,9 @@ Choose the Clarins if you want a pretty, luxurious ritual and care about your na
 
 A long, hot shower feels wonderful in December, but it's one of the main reasons skin feels tight afterward. Keep the water warm rather than hot, keep it short, and swap a squeaky, foaming gel for something creamier.
 
-**The splurge:** [L'OCCITANE Cleansing and Softening Almond Shower Oil](https://www.amazon.com/dp/B001G60EK8?tag=creativedi03c-20) turns from an oil into a soft, milky lather when it meets water. It cleanses without that stripped feeling, and the warm almond scent makes a plain weeknight shower feel like a spa visit. It's a beautiful gift too, especially for someone who loves a fragrant bathroom.
+**The splurge:** [L'OCCITANE Cleansing and Softening Almond Shower Oil](https://link.amazon/B049VX8pb) turns from an oil into a soft, milky lather when it meets water. It cleanses without that stripped feeling, and the warm almond scent makes a plain weeknight shower feel like a spa visit. It's a beautiful gift too, especially for someone who loves a fragrant bathroom.
 
-**The everyday:** [Dove Deep Moisture Body Wash](https://www.amazon.com/dp/B000ESQQJM?tag=creativedi03c-20) is the creamy, sulfate-free classic made for dry skin. It's mild, generous and easy to find, and it leaves skin feeling soft rather than tight. The big bottle makes it an easy family-bathroom staple.
+**The everyday:** [Dove Deep Moisture Body Wash](https://link.amazon/B0g8HMQpW) is the creamy, sulfate-free classic made for dry skin. It's mild, generous and easy to find, and it leaves skin feeling soft rather than tight. The big bottle makes it an easy family-bathroom staple.
 
 Pick the shower oil if scent and ritual matter to you, or if you shave in the shower and want a slippery, cushioned base. Pick Dove if you want one reliable wash for the whole household.
 
@@ -48,9 +48,9 @@ Pick the shower oil if scent and ritual matter to you, or if you shave in the sh
 
 Elbows, knees, heels and the backs of the arms tend to go rough and bumpy in winter. A gentle exfoliant a few times a week helps lotion sink in and leaves skin feeling smoother. In winter, less is more: skip harsh scrubbing, and never exfoliate skin that is cracked or irritated.
 
-**The splurge:** [First Aid Beauty KP Bump Eraser Body Scrub](https://www.amazon.com/dp/B08GNS58PQ?tag=creativedi03c-20) combines a physical scrub with 10% AHA from glycolic and lactic acids, according to the listing. It's made for rough, bumpy skin on the arms and legs, and the listing describes it as safe for sensitive skin. Use it in the shower two or three times a week rather than daily.
+**The splurge:** [First Aid Beauty KP Bump Eraser Body Scrub](https://link.amazon/B0huggEGo) combines a physical scrub with 10% AHA from glycolic and lactic acids, according to the listing. It's made for rough, bumpy skin on the arms and legs, and the listing describes it as safe for sensitive skin. Use it in the shower two or three times a week rather than daily.
 
-**The everyday:** [AmLactin Daily Nourish Body Lotion](https://www.amazon.com/dp/B07BRDVQ4B?tag=creativedi03c-20) is a no-scrub option: a body lotion with 12% lactic acid that exfoliates gently while it moisturizes. It's a drugstore favorite for rough elbows, knees and heels. Lactic acid can make skin more sensitive to the sun, so wear sunscreen on any areas that see daylight, and patch test first if your skin is reactive.
+**The everyday:** [AmLactin Daily Nourish Body Lotion](https://link.amazon/B03j9KkDB) is a no-scrub option: a body lotion with 12% lactic acid that exfoliates gently while it moisturizes. It's a drugstore favorite for rough elbows, knees and heels. Lactic acid can make skin more sensitive to the sun, so wear sunscreen on any areas that see daylight, and patch test first if your skin is reactive.
 
 Choose the scrub if you like the instant, polished feel of a body scrub. Choose AmLactin if you want a lotion that does two jobs, or if scrubbing makes your skin feel irritated.
 
@@ -58,13 +58,13 @@ Choose the scrub if you like the instant, polished feel of a body scrub. Choose 
 
 This is the step that makes the biggest difference. Apply your body cream within a few minutes of stepping out of the shower, on skin that's still a little damp, so you lock in some of that water.
 
-**The splurge:** [Sol de Janeiro Brazilian Bum Bum Cream full size and travel size bundle](https://www.amazon.com/dp/B0BF46JS1D?tag=creativedi03c-20) is the body cream that turned moisturizing into a scent obsession. It's a rich, fast-absorbing cream with the famous warm pistachio and salted caramel scent, and the bundle gives you a full jar for home plus a travel size for your bag. If you love scent layering, it's an easy base for a matching fragrance mist.
+**The splurge:** [Sol de Janeiro Brazilian Bum Bum Cream full size and travel size bundle](https://link.amazon/B0d8jPcbQ) is the body cream that turned moisturizing into a scent obsession. It's a rich, fast-absorbing cream with the famous warm pistachio and salted caramel scent, and the bundle gives you a full jar for home plus a travel size for your bag. If you love scent layering, it's an easy base for a matching fragrance mist.
 
-**The everyday:** [CeraVe Daily Moisturizing Lotion](https://www.amazon.com/dp/B07RK4HST7?tag=creativedi03c-20) is the fragrance-free, dermatologist-favorite lotion with ceramides and hyaluronic acid. It's lighter than the CeraVe cream, so it spreads easily over arms and legs and sinks in quickly, which makes it a good everyday body lotion. The big 19 oz pump bottle is very practical for a family bathroom.
+**The everyday:** [CeraVe Daily Moisturizing Lotion](https://link.amazon/B02ok1sRU) is the fragrance-free, dermatologist-favorite lotion with ceramides and hyaluronic acid. It's lighter than the CeraVe cream, so it spreads easily over arms and legs and sinks in quickly, which makes it a good everyday body lotion. The big 19 oz pump bottle is very practical for a family bathroom.
 
 Pick Sol de Janeiro if you want your body cream to double as a fragrance and a little daily treat. Pick CeraVe if you prefer fragrance-free, have sensitive skin, or want one lotion everyone can use.
 
-**Also lovely:** [Weleda Skin Food Original Ultra-Rich Body Cream](https://www.amazon.com/dp/B000ORV3NC?tag=creativedi03c-20) is a thick, plant-rich cream with pansy, chamomile and calendula, as the listing describes. A small tube is perfect for elbows, cuticles and heels at night, and it tucks neatly into a stocking.
+**Also lovely:** [Weleda Skin Food Original Ultra-Rich Body Cream](https://link.amazon/B0agQaI32) is a thick, plant-rich cream with pansy, chamomile and calendula, as the listing describes. A small tube is perfect for elbows, cuticles and heels at night, and it tucks neatly into a stocking.
 
 ![Overhead flat lay on black velvet: a hand cream tube, a white body lotion pump bottle, a small tin of rich cream and a sprig of dried eucalyptus](/images/winter-hand-body-rescue-3.jpg)
 
