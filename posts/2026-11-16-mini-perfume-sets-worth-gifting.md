@@ -24,9 +24,9 @@ Below are three scent moods, each with a luxury set and an everyday set that lan
 
 This is the gift for the woman who loves a beautiful bottle and likes to know the name behind the scent. A designer mini set feels like a tiny perfume wardrobe.
 
-**The splurge:** [Yves Saint Laurent Perfume Miniatures Travel Set for Women](https://www.amazon.com/dp/B081D62QLQ?tag=creativedi03c-20) brings together four of the house's best-known scents, Opium, Paris, Black Opium and Mon Paris, in 7.5 ml minis. That range runs from spicy and dramatic to romantic floral to coffee and vanilla, so she can try four very different YSL moods side by side. It's the kind of set that looks lovely lined up on a vanity long after the holidays.
+**The splurge:** [Yves Saint Laurent Perfume Miniatures Travel Set for Women](https://link.amazon/B0gsszMcw) brings together four of the house's best-known scents, Opium, Paris, Black Opium and Mon Paris, in 7.5 ml minis. That range runs from spicy and dramatic to romantic floral to coffee and vanilla, so she can try four very different YSL moods side by side. It's the kind of set that looks lovely lined up on a vanity long after the holidays.
 
-**The everyday:** [Ariana Grande Deluxe Mini Gift Set](https://www.amazon.com/dp/B0HBZ4SYXL?tag=creativedi03c-20) is a three piece set of deluxe minis from a fragrance line that's known for sweet, cozy and playful scents, with Cloud as its best-known bottle. It's a fun, approachable way to explore a whole line, and the minis are easy to toss in a gym bag or a desk drawer.
+**The everyday:** [Ariana Grande Deluxe Mini Gift Set](https://link.amazon/B0bS72Ybg) is a three piece set of deluxe minis from a fragrance line that's known for sweet, cozy and playful scents, with Cloud as its best-known bottle. It's a fun, approachable way to explore a whole line, and the minis are easy to toss in a gym bag or a desk drawer.
 
 Choose YSL for the woman who already owns a few designer bottles and loves the ritual of perfume. Choose Ariana Grande for a younger sister, a friend who loves sweet scents, or anyone who's just starting to build a collection.
 
