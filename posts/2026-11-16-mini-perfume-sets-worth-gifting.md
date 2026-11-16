@@ -34,9 +34,9 @@ Choose YSL for the woman who already owns a few designer bottles and loves the r
 
 Gourmand scents, the ones built around notes like vanilla, caramel, praline and sweet florals, are still the biggest fragrance mood of the year. These sets are for the woman who loves a soft sweater, a latte and a scent people lean in to ask about.
 
-**The splurge:** [Carolina Herrera Good Girl Perfume Mini Set](https://www.amazon.com/dp/B0DVSNCC6R?tag=creativedi03c-20) is a three piece collection with Good Girl, Good Girl Blush and Good Girl Blush Elixir in 0.24 oz minis. Each one comes in the brand's famous stiletto shaped bottle, which makes the set feel like a gift before it's even unwrapped. Good Girl is the darker, more evening scent of the trio, while the Blush versions lean softer and more floral, so she can match the bottle to the plan.
+**The splurge:** [Carolina Herrera Good Girl Perfume Mini Set](https://link.amazon/B04j1BT2b) is a three piece collection with Good Girl, Good Girl Blush and Good Girl Blush Elixir in 0.24 oz minis. Each one comes in the brand's famous stiletto shaped bottle, which makes the set feel like a gift before it's even unwrapped. Good Girl is the darker, more evening scent of the trio, while the Blush versions lean softer and more floral, so she can match the bottle to the plan.
 
-**The everyday:** [Lattafa Yara Eau de Parfum Mini Collection](https://www.amazon.com/dp/B0HNH2TT3H?tag=creativedi03c-20) is a set of four 5 ml minis from Lattafa's Yara family, one of the most talked-about value fragrance lines on Amazon. Yara is loved for its creamy, sweet, powdery feel, and a mini collection lets her try the different versions before choosing a favorite. Middle Eastern houses like Lattafa have grown fast with US fragrance lovers for rich scents at an easier price.
+**The everyday:** [Lattafa Yara Eau de Parfum Mini Collection](https://link.amazon/B0cJl4oRx) is a set of four 5 ml minis from Lattafa's Yara family, one of the most talked-about value fragrance lines on Amazon. Yara is loved for its creamy, sweet, powdery feel, and a mini collection lets her try the different versions before choosing a favorite. Middle Eastern houses like Lattafa have grown fast with US fragrance lovers for rich scents at an easier price.
 
 Pick Carolina Herrera if she loves a glamorous bottle and a polished, grown-up sweetness. Pick Lattafa if she loves trying new things and reviews matter more to her than labels.
 
@@ -46,9 +46,9 @@ Pick Carolina Herrera if she loves a glamorous bottle and a polished, grown-up s
 
 Not everyone wants a strong perfume. Perfume mists and body mists are lighter, easy to reapply, and perfect for layering, which is why scent layering keeps showing up on Pinterest and TikTok. A mini mist set is also a lovely gift for anyone who finds perfume too much.
 
-**The splurge:** [Sol de Janeiro Cheirosa Perfume Mist Discovery Set](https://www.amazon.com/dp/B0GTQS33Y7?tag=creativedi03c-20) includes minis of Cheirosa 62, 40 and 59. Cheirosa 62 is the brand's famous warm pistachio and salted caramel scent, and the set lets her compare it with two other signature Cheirosa scents. The mists can go on skin, hair or a scarf, and they layer easily with body cream for a scent that lingers softly.
+**The splurge:** [Sol de Janeiro Cheirosa Perfume Mist Discovery Set](https://link.amazon/B03abFG6y) includes minis of Cheirosa 62, 40 and 59. Cheirosa 62 is the brand's famous warm pistachio and salted caramel scent, and the set lets her compare it with two other signature Cheirosa scents. The mists can go on skin, hair or a scarf, and they layer easily with body cream for a scent that lingers softly.
 
-**The everyday:** [Victoria's Secret Mist Collection 4 Piece Mini Mist Gift Set](https://www.amazon.com/dp/B097BW8KN7?tag=creativedi03c-20) bundles four travel size fragrance mists in one box. Victoria's Secret mists are a long-time favorite for light, sweet, wear-anywhere scents, and the small size means she can keep one in every bag. It's a cheerful gift for teens, college students and coworkers alike.
+**The everyday:** [Victoria's Secret Mist Collection 4 Piece Mini Mist Gift Set](https://link.amazon/B0cemjRPF) bundles four travel size fragrance mists in one box. Victoria's Secret mists are a long-time favorite for light, sweet, wear-anywhere scents, and the small size means she can keep one in every bag. It's a cheerful gift for teens, college students and coworkers alike.
 
 Choose Sol de Janeiro if she already loves scented body care and wants the "what are you wearing?" moment. Choose Victoria's Secret for a fun, low-pressure gift that fits almost anyone.
 
@@ -56,9 +56,9 @@ Choose Sol de Janeiro if she already loves scented body care and wants the "what
 
 If you want to add a little extra to a mini set, a matching body product turns it into a layering kit.
 
-**Also lovely:** [Summer Fridays Mini Vanilla Body Mist and Body Butter Gift Set](https://www.amazon.com/dp/B0HHTK42WC?tag=creativedi03c-20) pairs a mini vanilla body mist with a body butter, a sweet little starter kit for scent layering. Tuck it next to any of the gourmand sets above.
+**Also lovely:** [Summer Fridays Mini Vanilla Body Mist and Body Butter Gift Set](https://link.amazon/B094LWJMo) pairs a mini vanilla body mist with a body butter, a sweet little starter kit for scent layering. Tuck it next to any of the gourmand sets above.
 
-**Also lovely:** [Victoria's Secret PINK Vanilla Gift Set](https://www.amazon.com/dp/B0GLSYRRQW?tag=creativedi03c-20) includes a body mist, body oil and body butter in one vanilla scent. It's an easy everyday add-on for the friend who loves cozy, sweet scents.
+**Also lovely:** [Victoria's Secret PINK Vanilla Gift Set](https://link.amazon/B03iQPD0Q) includes a body mist, body oil and body butter in one vanilla scent. It's an easy everyday add-on for the friend who loves cozy, sweet scents.
 
 A quick authenticity tip: for the luxury sets, check that the listing says ships from and sold by Amazon, or that it's sold by the brand's own store. Read recent reviews for notes on packaging, and skip listings that look unusually different from the brand's photos.
 
