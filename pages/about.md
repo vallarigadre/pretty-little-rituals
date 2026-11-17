@@ -9,7 +9,7 @@ Pretty Little Rituals is for women who love beauty but do not believe every step
 
 ## Who picks the products
 
-I'm V, Vallari Gadre. Before this blog I spent ten years in fashion retail buying and merchandise planning, deciding which products earned a place on the shelf and which were left behind. I bring that same eye to beauty: reading ingredient lists and real listings, weighing thousands of shopper reviews, and asking one question of every luxury product. Is the extra money buying something you will notice?
+I'm V, Vallari Gadre. I love putting together curated beauty lists: the treats worth saving up for, the everyday heroes that work just as well, and thoughtful little luxuries to gift to the people you love. For every list I read ingredient lists and real listings, weigh thousands of shopper reviews, and ask one question of every luxury product. Is the extra money buying something you will notice?
 
 ## What we promise
 
