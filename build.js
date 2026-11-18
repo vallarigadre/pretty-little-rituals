@@ -232,9 +232,9 @@ const PRODUCTS = Object.fromEntries((site.products || []).map((p) => [p.id, p]))
 function productCard(p, variant = "") {
   if (!p) return "";
   return `<aside class="product${variant ? " product--" + variant : ""}" aria-label="${esc(p.free ? "Free download" : "From the shop")}">
-  <a class="product__img" href="${esc(p.url)}" target="_blank" rel="noopener"><img src="${esc(p.image)}" alt="${esc(p.name + " cover")}" loading="lazy" width="600" height="600"></a>
+  <a class="product__img" href="${esc(p.url)}" target="_blank" rel="noopener"><img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" width="600" height="600"></a>
   <div class="product__body">
-    <p class="product__kicker">${p.free ? "Free download" : "From the shop"}</p>
+    <p class="product__kicker">${p.free ? "Free download" : "Pretty Little Rituals"}</p>
     <p class="product__name"><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.name)}</a></p>
     <p class="product__blurb">${esc(p.blurb)}</p>
     <p class="product__buy"><a class="btn ${p.free ? "btn--sage" : "btn--peach"} product-link" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.button || (p.free ? "Get it free" : "Get it"))}</a><span class="product__price">${esc(p.price)}</span></p>
@@ -440,8 +440,8 @@ function homePage(posts) {
   const prods = site.products || [];
   const freebies = !prods.length ? "" : `<section class="free" aria-labelledby="free-h">
   <div class="wrap">
-    <p class="kicker center">Made for your routine</p>
-    <h2 id="free-h" class="h-sec center">From the shop</h2>
+    <p class="kicker center">My own little line</p>
+    <h2 id="free-h" class="h-sec center">Shop Pretty Little Rituals</h2>
     <div class="shop-grid">${prods.map((p) => productCard(p, "tile")).join("")}</div>
   </div>
 </section>`;
@@ -528,11 +528,11 @@ function shopPage() {
   if (!prods.length) return;
   const free = prods.filter((p) => p.free), paid = prods.filter((p) => !p.free);
   const body = `<section class="wrap listing">
-    <header class="listing__head"><h1>Shop</h1><p>Digital products for your beauty routine.</p></header>
-    ${paid.length ? `<h2 class="rule-h">Digital products</h2><div class="shop-grid">${paid.map((p) => productCard(p, "tile")).join("")}</div>` : ""}
+    <header class="listing__head"><h1>Shop</h1><p>My own little line of lip gloss and blush, named after the small moments that make a day feel good. <a href="https://shop.prettylittlerituals.blog">Visit the full shop</a>.</p></header>
+    ${paid.length ? `<h2 class="rule-h">The first ritual collection</h2><div class="shop-grid">${paid.map((p) => productCard(p, "tile")).join("")}</div>` : ""}
     ${free.length ? `<h2 class="rule-h">Free downloads</h2><div class="shop-grid">${free.map((p) => productCard(p, "tile")).join("")}</div>` : ""}
   </section>${newsletter}`;
-  write("shop/index.html", layout({ title: "Shop", description: "Digital products from Pretty Little Rituals.", path: "/shop/", body }));
+  write("shop/index.html", layout({ title: "Shop", description: "Lip gloss and blush from Pretty Little Rituals, made for everyday rituals.", path: "/shop/", body }));
 }
 
 function staticPages(pages) {
