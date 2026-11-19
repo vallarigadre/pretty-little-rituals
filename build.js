@@ -183,7 +183,7 @@ function loadPosts() {
       const section = sectionFor(data.category || guessSection(body));
 
       body = stripEmDashes(body);
-      let html = headingIds(renderPicks(renderProducts(inlinePhotos(processLinks(marked.parse(body))))))
+      let html = headingIds(renderPicks(shopBlocks(renderProducts(inlinePhotos(processLinks(marked.parse(body)))), "post")))
         .replace(/^\s*<p><em>([^<]*Amazon Associate[^<]*)<\/em><\/p>/i, '<p class="disclosure">$1</p>');
       if (data.quickpicks !== false) html = quickPicks(html);
       const faqOut = faqBlock(html);
@@ -240,6 +240,33 @@ function productCard(p, variant = "") {
     <p class="product__buy"><a class="btn ${p.free ? "btn--sage" : "btn--peach"} product-link" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.button || (p.free ? "Get it free" : "Get it"))}</a><span class="product__price">${esc(p.price)}</span></p>
   </div>
 </aside>`;
+}
+
+// V's own shop (Pretty Little Rituals on Shopify). Product data lives in shop.json.
+const shop = fs.existsSync(path.join(ROOT, "shop.json")) ? JSON.parse(fs.readFileSync(path.join(ROOT, "shop.json"), "utf8")) : null;
+const shopUrl = (p, place) => `${shop.url}/${p}?utm_source=prettylittlerituals.blog&utm_medium=blog&utm_campaign=${place}`;
+const shopProduct = (h) => shop && shop.products.find((p) => p.handle === h);
+function shopCard(p, place) {
+  return `<a class="ownshop__item" href="${esc(shopUrl("products/" + p.handle, place))}" target="_blank" rel="noopener">
+    <img src="${esc(p.image)}&width=600" alt="${esc(p.title)}" loading="lazy" width="600" height="600">
+    <span class="ownshop__title">${esc(p.title)}</span>
+    <span class="ownshop__price">$${esc(p.price)}</span>
+  </a>`;
+}
+function shopBlockHtml(items, place) {
+  return `<aside class="ownshop" id="our-shop" aria-label="From the Pretty Little Rituals shop">
+  <p class="ownshop__kicker">From my own little line</p>
+  <div class="ownshop__grid ownshop__grid--${items.length}">${items.map((p) => shopCard(p, place)).join("")}</div>
+  <p class="ownshop__note">Made for this blog. ${esc(shop.note)} <a href="/shop/">See the whole shop</a>.</p>
+</aside>`;
+}
+// In a post, a paragraph with {{shop:handle}} or {{shop:handle-one,handle-two}} becomes a card row of V's own pieces.
+function shopBlocks(html, place) {
+  if (!shop) return html.replace(/<p>\s*\{\{shop:[^}]*\}\}\s*<\/p>/g, "");
+  return html.replace(/<p>\s*\{\{shop:([^}]*)\}\}\s*<\/p>/g, (m, list) => {
+    const items = list.split(",").map((h) => shopProduct(h.trim())).filter(Boolean).slice(0, 4);
+    return items.length ? shopBlockHtml(items, place) : "";
+  });
 }
 function renderProducts(html) {
   return html.replace(/<p>\s*\{\{\s*product:\s*([a-z0-9-]+)\s*\}\}\s*<\/p>/gi, (m, id) => productCard(PRODUCTS[id]) || "");
@@ -346,7 +373,7 @@ ${site.cloudflareAnalyticsToken ? `<script defer src="https://static.cloudflarei
 <header class="masthead">
   <div class="masthead__inner">
     <a class="wordmark" href="/"><span>${esc(site.name)}</span></a>
-    <nav class="nav" aria-label="Sections">${nav}${(site.products || []).length ? `<a href="/shop/"${pagePath === "/shop/" ? ' aria-current="page"' : ""}>Shop</a>` : ""}<a href="/about/"${pagePath === "/about/" ? ' aria-current="page"' : ""}>About</a></nav>
+    <nav class="nav" aria-label="Sections">${nav}${(shop || (site.products || []).length) ? `<a href="/shop/"${pagePath === "/shop/" ? ' aria-current="page"' : ""}>Shop</a>` : ""}<a href="/about/"${pagePath === "/about/" ? ' aria-current="page"' : ""}>About</a></nav>
   </div>
 </header>
 <main id="main">
@@ -437,12 +464,14 @@ function homePage(posts) {
   ${posts.length > 6 ? `<p class="center"><a class="btn btn--line" href="/archive/">See every post</a></p>` : ""}
 </section>`;
 
-  const prods = site.products || [];
-  const freebies = !prods.length ? "" : `<section class="free" aria-labelledby="free-h">
+  const homePicks = shop ? (shop.home || []).map(shopProduct).filter(Boolean).slice(0, 4) : [];
+  const freebies = !homePicks.length ? "" : `<section class="free home-shop" aria-labelledby="free-h">
   <div class="wrap">
     <p class="kicker center">My own little line</p>
     <h2 id="free-h" class="h-sec center">Shop Pretty Little Rituals</h2>
-    <div class="shop-grid">${prods.map((p) => productCard(p, "tile")).join("")}</div>
+    <p class="home-shop__dek center">Lip gloss and blush named after the small moments that make a day feel good. ${esc(shop.note)}</p>
+    <div class="ownshop__grid ownshop__grid--${homePicks.length}">${homePicks.map((p) => shopCard(p, "home")).join("")}</div>
+    <p class="center"><a class="btn btn--line" href="/shop/">Shop all</a></p>
   </div>
 </section>`;
 
@@ -524,15 +553,20 @@ ${newsletter}`;
 }
 
 function shopPage() {
-  const prods = site.products || [];
-  if (!prods.length) return;
-  const free = prods.filter((p) => p.free), paid = prods.filter((p) => !p.free);
-  const body = `<section class="wrap listing">
-    <header class="listing__head"><h1>Shop</h1><p>My own little line of lip gloss and blush, named after the small moments that make a day feel good. <a href="https://shop.prettylittlerituals.blog">Visit the full shop</a>.</p></header>
-    ${paid.length ? `<h2 class="rule-h">The first ritual collection</h2><div class="shop-grid">${paid.map((p) => productCard(p, "tile")).join("")}</div>` : ""}
-    ${free.length ? `<h2 class="rule-h">Free downloads</h2><div class="shop-grid">${free.map((p) => productCard(p, "tile")).join("")}</div>` : ""}
-  </section>${newsletter}`;
-  write("shop/index.html", layout({ title: "Shop", description: "Lip gloss and blush from Pretty Little Rituals, made for everyday rituals.", path: "/shop/", body }));
+  if (!shop) return;
+  const section = (c, list) => `<section class="ownshop-col" id="${esc(c.handle)}" aria-labelledby="h-${esc(c.handle)}">
+    <div class="ownshop-col__head"><h2 id="h-${esc(c.handle)}">${esc(c.name)}</h2>${c.blurb ? `<p>${esc(c.blurb)}</p>` : ""}
+    <a class="ownshop-col__all" href="${esc(shopUrl("collections/" + c.handle, "shop-page"))}" target="_blank" rel="noopener">Shop ${esc(c.name.toLowerCase())}</a></div>
+    <div class="ownshop__grid ownshop__grid--4">${list.map((p) => shopCard(p, "shop-page")).join("")}</div>
+  </section>`;
+  const cols = shop.collections.map((c) => [c, shop.products.filter((p) => p.collection === c.handle)]).filter(([, l]) => l.length);
+  const body = `<section class="wrap shop-page">
+  <header class="listing__head"><h1>The Pretty Little Rituals shop</h1>
+  <p>My own little line of lip gloss, blush and gifts, named after the small moments that make a day feel good. ${esc(shop.note)}</p></header>
+  ${cols.map(([c, l]) => section(c, l)).join("")}
+  <p class="shop-page__foot"><a class="btn btn--line" href="${esc(shopUrl("collections/all", "shop-page"))}" target="_blank" rel="noopener">Visit the full shop</a></p>
+</section>${newsletter}`;
+  write("shop/index.html", layout({ title: "Shop", description: "Lip gloss, blush and gifts from Pretty Little Rituals, made for everyday rituals. Free US shipping over $50.", path: "/shop/", body }));
 }
 
 function staticPages(pages) {

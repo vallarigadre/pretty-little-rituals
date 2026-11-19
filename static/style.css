@@ -303,3 +303,32 @@ h1, h2, h3 { font-family: var(--head); font-weight: 400; line-height: 1.15; lett
 .prose .pick--photo p { margin: 0; }
 .pick__img { width: 120px; height: 120px; object-fit: cover; display: block; }
 @media (max-width: 480px) { .prose .pick--photo { grid-template-columns: 88px minmax(0, 1fr); gap: .9rem; } .pick__img { width: 88px; height: 88px; } }
+
+/* Own shop (Pretty Little Rituals on Shopify) */
+.ownshop { margin: 2.2rem 0; padding: 1.4rem 1.4rem 1.1rem; background: var(--paper); border: 1px solid var(--line); border-radius: 14px; }
+.ownshop__kicker { margin: 0 0 .9rem; font: 600 .78rem/1.2 var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--rose); }
+.ownshop__grid { display: grid; gap: 1rem; grid-template-columns: repeat(var(--cols, 3), minmax(0, 1fr)); }
+.ownshop__grid--1 { --cols: 1; max-width: 300px; }
+.ownshop__grid--2 { --cols: 2; }
+.ownshop__grid--3 { --cols: 3; }
+.ownshop__grid--4 { --cols: 4; }
+.home-shop .ownshop__grid { max-width: 960px; margin: 1.6rem auto; }
+.ownshop__item { display: flex; flex-direction: column; gap: .35rem; color: var(--ink); text-decoration: none; }
+.ownshop__item img { aspect-ratio: 1; object-fit: contain; width: 100%; height: auto; border-radius: 10px; background: #fff; transition: transform .2s ease; }
+.ownshop__item:hover img { transform: scale(1.02); }
+.ownshop__title { font: 500 .95rem/1.3 var(--sans); }
+.ownshop__item:hover .ownshop__title { text-decoration: underline; text-underline-offset: 3px; }
+.ownshop__price { font: 600 .9rem/1 var(--sans); color: var(--rose); }
+.ownshop__note { margin: 1rem 0 0; font: 400 .88rem/1.45 var(--sans); color: var(--soft); }
+.home-shop__dek { max-width: 46ch; margin: .6rem auto 0; color: var(--soft); }
+.ownshop-col { padding: 2.2rem 0; border-top: 1px solid var(--line); }
+.ownshop-col__head { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1.2rem; margin-bottom: 1.2rem; }
+.ownshop-col__head h2 { margin: 0; font-size: 1.7rem; }
+.ownshop-col__head p { margin: 0; flex: 1 1 320px; color: var(--soft); }
+.ownshop-col__all { font: 600 .85rem/1 var(--sans); color: var(--rose); }
+.shop-page__foot { text-align: center; margin: 1rem 0 3rem; }
+@media (max-width: 640px) {
+  .ownshop { padding: 1.1rem; }
+  .ownshop__grid--3, .ownshop__grid--4 { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: .8rem; padding-bottom: .4rem; }
+  .ownshop__grid--3 .ownshop__item, .ownshop__grid--4 .ownshop__item { flex: 0 0 62%; scroll-snap-align: start; }
+}

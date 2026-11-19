@@ -61,35 +61,7 @@
   "pinterestVerification": "",
   "heroAlt": "A marble vanity with a luxury perfume bottle, a lipstick and a blush silk ribbon in soft light",
   "shopUrl": "",
-  "products": [
-    {
-      "id": "morning-light",
-      "name": "Morning Light Lip Gloss",
-      "blurb": "A soft baby-pink gloss with a glassy shine. Your first-coffee kind of color.",
-      "price": "$25.90",
-      "url": "https://shop.prettylittlerituals.blog/products/lip-gloss-pinky",
-      "image": "https://cdn.shopify.com/s/files/1/0775/1208/1578/files/105002-BLNK-MB-01-01-LG-LG02.webp",
-      "button": "Shop now"
-    },
-    {
-      "id": "wine-down",
-      "name": "Wine Down Lip Gloss",
-      "blurb": "A berry-red gloss for candlelit dinners and slow evenings.",
-      "price": "$25.90",
-      "url": "https://shop.prettylittlerituals.blog/products/lip-gloss-rouge",
-      "image": "https://cdn.shopify.com/s/files/1/0775/1208/1578/files/105002-BLNK-MB-01-01-LG-LG13.webp",
-      "button": "Shop now"
-    },
-    {
-      "id": "morning-blush",
-      "name": "Morning Blush Liquid Blush",
-      "blurb": "A dewy peach liquid blush that melts in for a fresh, just-woke-up flush.",
-      "price": "$26.70",
-      "url": "https://shop.prettylittlerituals.blog/products/liquid-blush-dew-peach",
-      "image": "https://cdn.shopify.com/s/files/1/0775/1208/1578/files/105002-BLNK-MB-01-02-QBL02.webp",
-      "button": "Shop now"
-    }
-  ],
+  "products": [],
   "newsletter": true,
   "stats": false,
   "trendingLabel": "Trending now",
