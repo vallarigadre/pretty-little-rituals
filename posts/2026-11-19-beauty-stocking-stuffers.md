@@ -25,9 +25,9 @@ For each little luxury from a brand she will recognize, there is an everyday pic
 
 A lip balm is the classic stocking stuffer for a reason: it is small, it is useful, and it gets used down to the last swipe.
 
-**The splurge:** [LANEIGE Lip Glowy Balm](https://www.amazon.com/dp/B09HN7NTJP?tag=creativedi03c-20) in Gummy Bear is the glossy, sheer-tinted sister of Laneige's famous overnight lip mask, made for daytime. The listing describes a hydrating, glossy balm with shea butter, and the squeezy tube with its sweet flavors feels like a treat every time she opens it. It is the lip product that turns up on wish lists by name.
+**The splurge:** [LANEIGE Lip Glowy Balm](https://link.amazon/B01pXr3Vp) in Gummy Bear is the glossy, sheer-tinted sister of Laneige's famous overnight lip mask, made for daytime. The listing describes a hydrating, glossy balm with shea butter, and the squeezy tube with its sweet flavors feels like a treat every time she opens it. It is the lip product that turns up on wish lists by name.
 
-**The everyday:** [e.l.f. SKIN Holy Hydration! Lip Mask](https://www.amazon.com/dp/B0B5MGPXPN?tag=creativedi03c-20) is a hydrating lip mask infused with hyaluronic acid. The listing calls it non-sticky, vegan and cruelty free, and it is made to leave lips feeling softer and smoother. It is a lovely little pot to slip in next to a candy cane.
+**The everyday:** [e.l.f. SKIN Holy Hydration! Lip Mask](https://link.amazon/B03Z2UklM) is a hydrating lip mask infused with hyaluronic acid. The listing calls it non-sticky, vegan and cruelty free, and it is made to leave lips feeling softer and smoother. It is a lovely little pot to slip in next to a candy cane.
 
 Pick Laneige for the friend who wants shine and a hint of color on the go. Pick e.l.f. for the one who loves a nightly lip ritual and appreciates a small, cute jar.
 
@@ -35,9 +35,9 @@ Pick Laneige for the friend who wants shine and a hint of color on the go. Pick 
 
 Pimple patches might be the most useful stocking stuffer of all. Almost everyone keeps a pack around, and almost no one minds getting another.
 
-**The splurge:** [PEACE OUT Acne Healing Dots](https://www.amazon.com/dp/B07JLH43QJ?tag=creativedi03c-20) are hydrocolloid dots from a brand known for its sleek, clinical packaging. The 20-count pack is a neat size for a stocking, and the dots are designed to sit over a blemish overnight and protect it from picking. They feel a little more grown up than the average patch.
+**The splurge:** [PEACE OUT Acne Healing Dots](https://link.amazon/B0hTRhiKO) are hydrocolloid dots from a brand known for its sleek, clinical packaging. The 20-count pack is a neat size for a stocking, and the dots are designed to sit over a blemish overnight and protect it from picking. They feel a little more grown up than the average patch.
 
-**The everyday:** [COSRX Acne Pimple Master Patch](https://www.amazon.com/dp/B07652XWMH?tag=creativedi03c-20) is the K-beauty classic, a sheet of thin, round hydrocolloid patches in a few sizes. Reviewers love that they are discreet enough to wear around the house, and the pack is tiny enough to tuck anywhere.
+**The everyday:** [COSRX Acne Pimple Master Patch](https://link.amazon/B0dHbiVvR) is the K-beauty classic, a sheet of thin, round hydrocolloid patches in a few sizes. Reviewers love that they are discreet enough to wear around the house, and the pack is tiny enough to tuck anywhere.
 
 Pick Peace Out for the friend who likes her skincare to look as good as it works on the bathroom shelf. Pick COSRX for anyone who goes through patches quickly and wants a dependable staple.
 
@@ -47,9 +47,9 @@ Pick Peace Out for the friend who likes her skincare to look as good as it works
 
 Under eye patches are the stocking stuffer that feels like a spa morning. They are also very Christmas Day: pop them on while the coffee brews and the presents get unwrapped.
 
-**The splurge:** [Peter Thomas Roth 24K Gold Pure Luxury Lift & Firm Hydra-Gel Eye Patches](https://www.amazon.com/dp/B00YP4JJVS?tag=creativedi03c-20) are the shimmering gold hydrogel patches that have been a beauty editor staple for years. They come in a jar, they look wonderfully indulgent on, and the cool gel texture makes them feel like a little luxury before a busy day. This is the splurge to choose for the person who loves a self-care moment.
+**The splurge:** [Peter Thomas Roth 24K Gold Pure Luxury Lift & Firm Hydra-Gel Eye Patches](https://link.amazon/B0gxOTaLm) are the shimmering gold hydrogel patches that have been a beauty editor staple for years. They come in a jar, they look wonderfully indulgent on, and the cool gel texture makes them feel like a little luxury before a busy day. This is the splurge to choose for the person who loves a self-care moment.
 
-**The everyday:** [grace & stella Under Eye Mask](https://www.amazon.com/dp/B0C4G1YZY4?tag=creativedi03c-20) in Gold comes as a six-pair pack of gel eye patches, which makes it a perfect stocking size. The listing calls them vegan and cruelty free, and reviewers often mention how refreshing they feel straight from the fridge.
+**The everyday:** [grace & stella Under Eye Mask](https://link.amazon/B00rNnZ9C) in Gold comes as a six-pair pack of gel eye patches, which makes it a perfect stocking size. The listing calls them vegan and cruelty free, and reviewers often mention how refreshing they feel straight from the fridge.
 
 Pick Peter Thomas Roth for the friend who treats skincare as her favorite part of the day. Pick grace & stella when you want a pretty, giftable treat for several people on your list.
 
@@ -59,9 +59,9 @@ Pick Peter Thomas Roth for the friend who treats skincare as her favorite part o
 
 A mascara is something she will use every day, and a travel size is the perfect excuse to try a prestige formula.
 
-**The splurge:** [Lancôme Lash Idôle Volumizing & Lifting Mascara Travel Size](https://www.amazon.com/dp/B0968HWQBW?tag=creativedi03c-20) puts one of Lancôme's best-known mascaras into a stocking-friendly mini. The listing describes a lifting, volumizing formula, and the sleek little tube looks every bit the luxury gift it is.
+**The splurge:** [Lancôme Lash Idôle Volumizing & Lifting Mascara Travel Size](https://link.amazon/B0gDOIIPX) puts one of Lancôme's best-known mascaras into a stocking-friendly mini. The listing describes a lifting, volumizing formula, and the sleek little tube looks every bit the luxury gift it is.
 
-**The everyday:** [L'Oréal Paris Voluminous Lash Paradise Mascara](https://www.amazon.com/dp/B06XDYJT6D?tag=creativedi03c-20) is a long-time drugstore favorite. The listing promises voluptuous volume and soft, full-looking lashes, with no flaking, smudging or clumping, and the rose gold tube makes it feel special even at full size.
+**The everyday:** [L'Oréal Paris Voluminous Lash Paradise Mascara](https://link.amazon/B04qHeRAv) is a long-time drugstore favorite. The listing promises voluptuous volume and soft, full-looking lashes, with no flaking, smudging or clumping, and the rose gold tube makes it feel special even at full size.
 
 Pick Lancôme for the friend who loves luxury makeup but has never tried a prestige mascara. Pick L'Oréal for the one who just wants a reliable everyday lash.
 
@@ -69,15 +69,15 @@ Pick Lancôme for the friend who loves luxury makeup but has never tried a prest
 
 Dry shampoo is the unsung hero of the holidays: early flights, late parties and second-day hair for every family brunch.
 
-**The splurge:** [Living Proof Travel Size Advanced Clean Dry Shampoo + Dry Volume & Texture Spray Bundle](https://www.amazon.com/dp/B0D38DML46?tag=creativedi03c-20) pairs two travel cans from the brand known for its Perfect hair Day line. The dry shampoo freshens hair between washes, and the texture spray adds lift and grip for an undone, lived-in look. Two minis in one gift makes it feel generous.
+**The splurge:** [Living Proof Travel Size Advanced Clean Dry Shampoo + Dry Volume & Texture Spray Bundle](https://link.amazon/B02k7vBLt) pairs two travel cans from the brand known for its Perfect hair Day line. The dry shampoo freshens hair between washes, and the texture spray adds lift and grip for an undone, lived-in look. Two minis in one gift makes it feel generous.
 
-**The everyday:** [Batiste Dry Shampoo Bare Mini](https://www.amazon.com/dp/B082WL7XDW?tag=creativedi03c-20) is the travel-size version of the dry shampoo so many people have in their bathroom cabinet. The Bare scent is light and clean, and the tiny can fits easily in a carry-on or a gym bag.
+**The everyday:** [Batiste Dry Shampoo Bare Mini](https://link.amazon/B0jdUDus0) is the travel-size version of the dry shampoo so many people have in their bathroom cabinet. The Bare scent is light and clean, and the tiny can fits easily in a carry-on or a gym bag.
 
 Pick Living Proof for the friend who styles her hair often and loves a polished blowout look. Pick Batiste for anyone who travels over the holidays.
 
 ## Also lovely
 
-**Also lovely:** [Starface Hydro-Star Black Compact + Pimple Patch](https://www.amazon.com/dp/B0HB7NVM1Q?tag=creativedi03c-20) is an Amazon exclusive set of star-shaped hydrocolloid patches in a refillable compact. The playful star shapes and pocket-size case make it a fun stocking stuffer, especially for someone who likes her skincare a little less serious.
+**Also lovely:** [Starface Hydro-Star Black Compact + Pimple Patch](https://link.amazon/B07cmZimW) is an Amazon exclusive set of star-shaped hydrocolloid patches in a refillable compact. The playful star shapes and pocket-size case make it a fun stocking stuffer, especially for someone who likes her skincare a little less serious.
 
 ![Close-up of a blush stocking cuff with unbranded mini mascara, travel dry shampoo can and star-shaped patches peeking out on warm white linen](/images/beauty-stocking-stuffers-3.jpg)
 
