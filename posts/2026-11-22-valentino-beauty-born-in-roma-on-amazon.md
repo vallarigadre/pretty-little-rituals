@@ -35,9 +35,9 @@ That shapes the picks below. Born in Roma shines as a signature evening scent an
 
 This is the one most people mean when they say Born in Roma: the original Donna.
 
-**The splurge:** ![Valentino Born in Roma Donna Eau de Parfum travel spray, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-signature-splurge.jpg) [Valentino Born in Roma Donna Eau de Parfum, 0.34 fl oz](https://www.amazon.com/dp/B0BSDS8GSG?tag=creativedi03c-20) is the travel size of the signature scent, and it's the smartest way to start. You get the same blackcurrant, jasmine and bourbon vanilla in a purse-sized bottle, at a fraction of the full-size price. If you love it after a few weeks, you'll know the big bottle is worth it.
+**The splurge:** ![Valentino Born in Roma Donna Eau de Parfum travel spray, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-signature-splurge.jpg) [Valentino Born in Roma Donna Eau de Parfum, 0.34 fl oz](https://link.amazon/B0048Oq6m) is the travel size of the signature scent, and it's the smartest way to start. You get the same blackcurrant, jasmine and bourbon vanilla in a purse-sized bottle, at a fraction of the full-size price. If you love it after a few weeks, you'll know the big bottle is worth it.
 
-**The everyday:** ![Ariana Grande Cloud Eau de Parfum, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-signature-everyday.jpg) [Ariana Grande Cloud Eau de Parfum](https://www.amazon.com/dp/B07JPZ95ZP?tag=creativedi03c-20) is a long-loved everyday vanilla with a soft, creamy, slightly sweet feel. It isn't a copy of Born in Roma, but it gives a similar cozy, comforting warmth at a much lower price, so you can wear it every day without thinking twice.
+**The everyday:** ![Ariana Grande Cloud Eau de Parfum, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-signature-everyday.jpg) [Ariana Grande Cloud Eau de Parfum](https://link.amazon/B0i8uDjip) is a long-loved everyday vanilla with a soft, creamy, slightly sweet feel. It isn't a copy of Born in Roma, but it gives a similar cozy, comforting warmth at a much lower price, so you can wear it every day without thinking twice.
 
 Choose Born in Roma for a signature scent you'll save for dinners, dates and days you want to feel put together. Choose Cloud for an easy everyday vanilla you can spray freely.
 
@@ -47,9 +47,9 @@ Choose Born in Roma for a signature scent you'll save for dinners, dates and day
 
 If the original feels a touch light for winter nights, the Intense version turns up the warmth.
 
-**The splurge:** ![Valentino Born in Roma Donna Intense Eau de Parfum, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-evening-splurge.jpg) [Valentino Born in Roma Donna Intense Eau de Parfum, 0.34 fl oz](https://www.amazon.com/dp/B0C2SGYRBV?tag=creativedi03c-20) is the deeper, richer take, with more vanilla and a warmer, cozier finish. It's the one to reach for on cold evenings and holiday parties, and the travel size again keeps the price friendly while you decide.
+**The splurge:** ![Valentino Born in Roma Donna Intense Eau de Parfum, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-evening-splurge.jpg) [Valentino Born in Roma Donna Intense Eau de Parfum, 0.34 fl oz](https://link.amazon/B04edSuBT) is the deeper, richer take, with more vanilla and a warmer, cozier finish. It's the one to reach for on cold evenings and holiday parties, and the travel size again keeps the price friendly while you decide.
 
-**The everyday:** ![Valentino Born in Roma Donna Coral Eau de Parfum, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-evening-everyday.jpg) [Valentino Born in Roma Donna Coral Eau de Parfum, 1 fl oz](https://www.amazon.com/dp/B09V38QNTF?tag=creativedi03c-20) is the brighter, fruitier sister in a smaller full bottle. It's a good pick if you want a real Valentino bottle on your vanity without paying for a large size, and if you prefer something lighter and more cheerful than the Intense.
+**The everyday:** ![Valentino Born in Roma Donna Coral Eau de Parfum, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-evening-everyday.jpg) [Valentino Born in Roma Donna Coral Eau de Parfum, 1 fl oz](https://link.amazon/B04KWWutU) is the brighter, fruitier sister in a smaller full bottle. It's a good pick if you want a real Valentino bottle on your vanity without paying for a large size, and if you prefer something lighter and more cheerful than the Intense.
 
 Choose Intense for winter evenings and the most noticeable trail. Choose Coral if you want a lighter, everyday Valentino in a smaller bottle.
 
@@ -57,9 +57,9 @@ Choose Intense for winter evenings and the most noticeable trail. Choose Coral i
 
 This is where Born in Roma makes the most sense. It looks luxurious, it's widely loved, and most people would never buy it for themselves.
 
-**The splurge:** ![Valentino Born in Roma Donna Eau de Parfum gift set, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-gift-splurge.jpg) [Valentino Donna Born in Roma Eau de Parfum Gift Set](https://www.amazon.com/dp/B0FL68DQH1?tag=creativedi03c-20) pairs a 1.7 fl oz bottle with a 0.34 fl oz mini, so she gets one for the vanity and one for her bag. It's the easiest designer gift on the list this season: no guessing sizes, no wrapping stress.
+**The splurge:** ![Valentino Born in Roma Donna Eau de Parfum gift set, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-gift-splurge.jpg) [Valentino Donna Born in Roma Eau de Parfum Gift Set](https://link.amazon/B06lsE4an) pairs a 1.7 fl oz bottle with a 0.34 fl oz mini, so she gets one for the vanity and one for her bag. It's the easiest designer gift on the list this season: no guessing sizes, no wrapping stress.
 
-**The everyday:** ![Valentino Born in Roma Donna travel spray in a small gift bag, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-gift-everyday.jpg) The [Born in Roma Donna travel spray](https://www.amazon.com/dp/B0BSDS8GSG?tag=creativedi03c-20) from Step 1 also makes a lovely smaller gift. Tuck it into a stocking or pair it with a candle and a card, and it still feels like a real designer present.
+**The everyday:** ![Valentino Born in Roma Donna travel spray in a small gift bag, styled product photo](/images/valentino-beauty-born-in-roma-on-amazon-gift-everyday.jpg) The [Born in Roma Donna travel spray](https://link.amazon/B0048Oq6m) from Step 1 also makes a lovely smaller gift. Tuck it into a stocking or pair it with a candle and a card, and it still feels like a real designer present.
 
 Choose the gift set for a partner, a sister or a best friend. Choose the travel spray for a secret Santa, a teacher or a stocking.
 
@@ -69,9 +69,9 @@ If you already know you love the line, here's how the rest of the Donna family c
 
 - **Original Donna:** blackcurrant, jasmine and vanilla. Warm, polished and the safest blind buy.
 - **Donna Intense:** deeper and creamier vanilla. Best for evenings and winter.
-- **[Donna Coral](https://www.amazon.com/dp/B09V38QNTF?tag=creativedi03c-20):** fruitier and brighter. Best for daytime and spring.
-- **[Donna Green](https://www.amazon.com/dp/B0CT8PMJNH?tag=creativedi03c-20):** fresher and greener. Best if you find vanilla scents too sweet.
-- **[Donna Purple](https://www.amazon.com/dp/B0GF9GDQKK?tag=creativedi03c-20):** the newest addition to the family. Worth smelling if you already own the original and want something different.
+- **[Donna Coral](https://link.amazon/B04KWWutU):** fruitier and brighter. Best for daytime and spring.
+- **[Donna Green](https://link.amazon/B05dk6sli):** fresher and greener. Best if you find vanilla scents too sweet.
+- **[Donna Purple](https://link.amazon/B07J4oiHj):** the newest addition to the family. Worth smelling if you already own the original and want something different.
 
 ## How to buy Valentino on Amazon safely
 
