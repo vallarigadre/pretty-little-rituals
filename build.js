@@ -310,15 +310,15 @@ function card(post) {
 
 const newsletter = !site.newsletter ? "" : `<section class="letter" aria-labelledby="letter-h">
   <div class="letter__inner">
-    <p class="kicker">The Sunday Ritual</p>
-    <h2 id="letter-h">One splurge, one everyday find, every Sunday</h2>
-    <p>The week's new stories and the Amazon beauty finds worth a look. One short letter, never spam.</p>
+    <p class="kicker">Free printable + The Sunday Ritual</p>
+    <h2 id="letter-h">Get the free Splurge or Save Routine Planner</h2>
+    <p>Sign up and download it right away: a morning and night routine planner, the K-beauty layering order, a splurge or save tracker and a beauty shelf log. Then get one short letter every Sunday with the week's new stories. Never spam.</p>
     ${process.env.CF_PAGES ? `<form name="newsletter" method="POST" action="/api/subscribe" class="letter__form">` : `<form name="newsletter" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" class="letter__form">
       <input type="hidden" name="form-name" value="newsletter">`}
       <p class="hp"><label>Company <input name="company"></label></p>
       <label for="email" class="sr">Email address</label>
       <input id="email" type="email" name="email" placeholder="you@example.com" required autocomplete="email">
-      <button type="submit">Sign me up</button>
+      <button type="submit">Send me the planner</button>
     </form>
   </div>
 </section>`;
@@ -593,7 +593,7 @@ function staticPages(pages) {
     const body = `<article class="post"><header class="post__head wrap"><h1>${esc(pg.title)}</h1></header><div class="prose">${pg.html}</div></article>`;
     write(`${pg.slug}/index.html`, layout({ title: pg.title, description: pg.description, path: `/${pg.slug}/`, body }));
   });
-  write("thanks/index.html", layout({ title: "You're on the list", path: "/thanks/", body: `<section class="wrap narrow empty"><h1>You're on the list</h1><p>The next Sunday letter will land in your inbox. Until then, <a href="/">read the latest story</a>.</p></section>` }));
+  write("thanks/index.html", layout({ title: "You're on the list", path: "/thanks/", body: `<section class="wrap narrow empty"><h1>You're on the list</h1><p>Here's your free Splurge or Save Routine Planner. Print it or fill it in on your tablet.</p><p><a class="btn btn--peach" href="/freebies/splurge-or-save-routine-planner.pdf" download>Download the planner (PDF)</a></p><p>The next Sunday letter will land in your inbox. Until then, <a href="/">read the latest story</a>.</p></section>` }));
   write("404.html", layout({ title: "Page not found", path: "/404/", body: `<section class="wrap narrow empty"><h1>This page has moved or never existed</h1><p>Try the <a href="/archive/">full list of stories</a> or head back to the <a href="/">front page</a>.</p></section>` }));
 }
 
