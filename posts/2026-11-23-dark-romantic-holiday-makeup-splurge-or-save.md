@@ -26,9 +26,9 @@ The eyes in this look are lived in, not precise. A soft kohl pencil, pressed int
 
 How to apply it: hold the pencil flat and wiggle it along the root of your upper lashes. Smudge it upward with a fingertip, a small brush or the pencil's own smudger before it sets. Add a little to the outer third of the lower lash line and soften it too. The goal is a haze, not a line.
 
-**The splurge:** [Charlotte Tilbury Rock 'N' Kohl Eyeliner in Bedroom Black](https://www.amazon.com/dp/B0FGDVLLW9?tag=creativedi03c-20) is a waterproof pencil with a precision smudger tip built in. The listing describes an enhanced kajal formula made for sultry, smoky eyes, and the shade name tells you exactly what mood it is going for.
+**The splurge:** [Charlotte Tilbury Rock 'N' Kohl Eyeliner in Bedroom Black](https://link.amazon/B0gErjSwz) is a waterproof pencil with a precision smudger tip built in. The listing describes an enhanced kajal formula made for sultry, smoky eyes, and the shade name tells you exactly what mood it is going for.
 
-**The everyday:** [Rimmel London Scandaleyes Waterproof Kohl Kajal Eyeliner in Black](https://www.amazon.com/dp/B07226J5QV?tag=creativedi03c-20) is a long-standing drugstore favorite with a rich, intense black. It is listed as long-wearing and smudge-proof, so blend it quickly right after you apply it, then let it lock in place for the night.
+**The everyday:** [Rimmel London Scandaleyes Waterproof Kohl Kajal Eyeliner in Black](https://link.amazon/B0fE9saPk) is a long-standing drugstore favorite with a rich, intense black. It is listed as long-wearing and smudge-proof, so blend it quickly right after you apply it, then let it lock in place for the night.
 
 Pick Rock 'N' Kohl if you want the smudger tip and a slightly more luxurious pencil to keep in your bag. Pick Scandaleyes if you go through liner fast or want to try the look before committing.
 
@@ -38,9 +38,9 @@ A dark romantic eye does not need a full smoky eye. A wash of plum, wine or bron
 
 How to apply it: sweep a mid-tone shade over the lid with a fluffy brush. Press a deeper shade into the outer corner and along the lash line on top of your kohl, then blend the edges until there is no visible line. Finish with a tap of shimmer in the center of the lid to catch candlelight.
 
-**The splurge:** [Charlotte Tilbury Luxury Palette Eyeshadow in The Vintage Vamp](https://www.amazon.com/dp/B01M0UT06E?tag=creativedi03c-20) is a quad of four complementary shades in shimmer, metallic and satin matte finishes. As the name suggests, it is built around deep, vampy tones, and the four pans are laid out so you can create a full look without guessing which shade goes where.
+**The splurge:** [Charlotte Tilbury Luxury Palette Eyeshadow in The Vintage Vamp](https://link.amazon/B0dvnZ4hQ) is a quad of four complementary shades in shimmer, metallic and satin matte finishes. As the name suggests, it is built around deep, vampy tones, and the four pans are laid out so you can create a full look without guessing which shade goes where.
 
-**The everyday:** [Maybelline Eyeshadow Palette in The Burgundy Bar](https://www.amazon.com/dp/B079JLPZMG?tag=creativedi03c-20) gathers a range of burgundy, wine and berry shades in one compact. It gives you more colors to play with, which suits anyone who likes to experiment with how dark to go.
+**The everyday:** [Maybelline Eyeshadow Palette in The Burgundy Bar](https://link.amazon/B0dK2OnTV) gathers a range of burgundy, wine and berry shades in one compact. It gives you more colors to play with, which suits anyone who likes to experiment with how dark to go.
 
 Choose The Vintage Vamp if you want a small, edited quad that you can use without thinking. Choose The Burgundy Bar if you want lots of options in the same color family.
 
@@ -52,9 +52,9 @@ The lip liner is the secret to a dark lip that lasts through dinner. Filling the
 
 How to apply it: outline your lips with light, feathery strokes, then fill them in completely. For a softer, more romantic edge, press your fingertip around the outline to blur it slightly.
 
-**The splurge:** [Charlotte Tilbury Lip Cheat Lip Liner in Berry Naughty](https://www.amazon.com/dp/B0FGFHJ78R?tag=creativedi03c-20) is a creamy pencil enriched with jojoba oil and hyaluronic acid. The listing describes it as waterproof, smudge-proof and transfer-proof, which is exactly what you want under a dark color at a party.
+**The splurge:** [Charlotte Tilbury Lip Cheat Lip Liner in Berry Naughty](https://link.amazon/B096PwBml) is a creamy pencil enriched with jojoba oil and hyaluronic acid. The listing describes it as waterproof, smudge-proof and transfer-proof, which is exactly what you want under a dark color at a party.
 
-**The everyday:** [NYX Professional Makeup Slim Lip Pencil in Burgundy](https://www.amazon.com/dp/B002R23DOE?tag=creativedi03c-20) is a creamy, long-lasting liner that has been a makeup bag staple for years. Burgundy is a true deep wine that works with almost any dark lipstick.
+**The everyday:** [NYX Professional Makeup Slim Lip Pencil in Burgundy](https://link.amazon/B02uhd1om) is a creamy, long-lasting liner that has been a makeup bag staple for years. Burgundy is a true deep wine that works with almost any dark lipstick.
 
 Choose Lip Cheat if you want the longest-wearing base and plan to wear dark lips often this season. Choose the NYX pencil if you want a reliable liner to keep in every bag.
 
@@ -64,9 +64,9 @@ This is the centerpiece. Think plum, black cherry, wine or deep berry. A cream f
 
 How to apply it: apply lipstick straight from the bullet over your liner, then blot once with a tissue and apply a second thin layer. For a more diffused, bitten look, dab the color on with your fingertip instead and keep the edges soft.
 
-**The splurge:** [Estée Lauder Pure Color Long Lasting Cream Lipstick in Insolent Plum](https://www.amazon.com/dp/B0C637T4T5?tag=creativedi03c-20) is a rich cream lipstick in a deep plum shade, in Estée Lauder's signature gold case. A dark lipstick is something you use a little at a time, so one bullet tends to last through many holiday seasons.
+**The splurge:** [Estée Lauder Pure Color Long Lasting Cream Lipstick in Insolent Plum](https://link.amazon/B0j6IpcZu) is a rich cream lipstick in a deep plum shade, in Estée Lauder's signature gold case. A dark lipstick is something you use a little at a time, so one bullet tends to last through many holiday seasons.
 
-**The everyday:** [Revlon Super Lustrous Lipstick in 477 Black Cherry](https://www.amazon.com/dp/B001G7PJH0?tag=creativedi03c-20) is one of the most famous dark drugstore lipsticks, a deep cherry red with a creamy finish. It has been a cult shade for decades and fits the look perfectly.
+**The everyday:** [Revlon Super Lustrous Lipstick in 477 Black Cherry](https://link.amazon/B04OIpvtW) is one of the most famous dark drugstore lipsticks, a deep cherry red with a creamy finish. It has been a cult shade for decades and fits the look perfectly.
 
 Choose Insolent Plum if you love a beautiful case and want a cooler, purple-leaning dark lip. Choose Black Cherry if you prefer a warmer wine red or want a dark lip you will not mind losing in a coat pocket.
 
@@ -78,9 +78,9 @@ Gloss is what turns a dark lip from dramatic to romantic. The shine catches the 
 
 How to apply it: add gloss to the center of your top and bottom lips only, then press them together. Keeping it off the edges stops the color from sliding.
 
-**The splurge:** [Lancôme Juicy Tubes Hydrating Lip Gloss in 15 Berry Bisou](https://www.amazon.com/dp/B0GQD9BZ98?tag=creativedi03c-20) brings back one of the most nostalgic glosses of all, now described as hydrating, in a berry shade that layers well over plum and wine lipsticks. It also works alone for an easy, day-friendly version of the look.
+**The splurge:** [Lancôme Juicy Tubes Hydrating Lip Gloss in 15 Berry Bisou](https://link.amazon/B0dcpIUaL) brings back one of the most nostalgic glosses of all, now described as hydrating, in a berry shade that layers well over plum and wine lipsticks. It also works alone for an easy, day-friendly version of the look.
 
-**The everyday:** [NYX Professional Makeup Fat Oil Lip Drip in That's Chic](https://www.amazon.com/dp/B0BL8HQNTP?tag=creativedi03c-20) is a moisturizing lip oil gloss with a tinted, vegan formula. That's Chic is a deep berry, so it adds color as well as shine, and it can stand in for lipstick on lazier nights.
+**The everyday:** [NYX Professional Makeup Fat Oil Lip Drip in That's Chic](https://link.amazon/B03Leg47V) is a moisturizing lip oil gloss with a tinted, vegan formula. That's Chic is a deep berry, so it adds color as well as shine, and it can stand in for lipstick on lazier nights.
 
 Choose Juicy Tubes if you want a classic glossy finish and a little nostalgia in your bag. Choose Fat Oil Lip Drip if you prefer an oil texture that feels lighter on the lips.
 
