@@ -409,7 +409,7 @@ function mini(post) {
 
 function homePage(posts) {
   const img = (f) => fs.existsSync(path.join(ROOT, "static/images", f));
-  const latest = posts.slice(0, 6);
+  const latest = posts.slice(1, 7);
   const heroImg = img("hero.jpg")
     ? `<img src="/images/hero.jpg" alt="${esc(site.heroAlt)}" fetchpriority="high">`
     : `<div class="ph ph--oat" aria-hidden="true">${motifs.fragrance}</div>`;
@@ -418,21 +418,40 @@ function homePage(posts) {
     : `<div class="ph ph--oat" aria-hidden="true">${motifs.skincare}</div>`;
 
   const hero = `<section class="hero wrap" aria-labelledby="hero-h">
+  <div class="hero__media"><div class="hero__frame">${heroImg}</div></div>
   <div class="hero__text">
-    <h1 id="hero-h" class="hero__title"><span>The little luxuries</span><strong>Worth it</strong><span>and the everyday essentials that are too</span></h1>
-    <p class="hero__lede">Skincare, K-beauty, makeup, hair and fragrance from Amazon, with one splurge and one everyday pick for every step of your routine.</p>
+    <p class="kicker">The beauty blog</p>
+    <h1 id="hero-h" class="hero__title">Honest beauty picks: <em>one splurge, one save</em></h1>
+    <p class="hero__lede">Real stories on skincare, K-beauty, makeup and fragrance, so you know where your money is worth it.</p>
     <div class="hero__actions">
-      <a class="btn btn--peach" href="/gift-guides/">Shop the gift guides</a>
-      ${site.newsletter ? `<a class="btn btn--line" href="#letter-h">Get The Sunday Ritual</a>` : `<a class="btn btn--line" href="/archive/">Read the stories</a>`}
+      <a class="btn btn--peach" href="#newest">Read the newest story</a>
+      <a class="btn btn--line" href="/archive/">All stories</a>
     </div>
   </div>
-  <div class="hero__media"><div class="hero__frame">${heroImg}</div></div>
 </section>`;
 
-  const welcome = `<section class="welcome wrap narrow">
-  <p>Welcome to Pretty Little Rituals, where a good beauty routine does not have to be all or nothing.</p>
-  <p>Some things are worth saving up for. Others do the job beautifully for a fraction of the price. Every story here pairs the two, so you can decide where your money goes.</p>
-  <blockquote class="quote"><span aria-hidden="true">&ldquo;</span>Splurge where you'll notice it.<br>Save where you won't.</blockquote>
+  const top = posts[0];
+  const newest = !top ? "" : `<section class="newest wrap" id="newest" aria-labelledby="newest-h">
+  <a class="newest__img" href="${top.url}" tabindex="-1" aria-hidden="true">${cover(top, "lg")}</a>
+  <div class="newest__text">
+    <p class="kicker">New on the blog</p>
+    <h2 id="newest-h" class="newest__title"><a href="${top.url}">${esc(top.title)}</a></h2>
+    <p class="newest__dek">${esc(top.subtitle || top.description)}</p>
+    ${top.verdict ? `<p class="newest__verdict"><strong>The short answer:</strong> ${esc(top.verdict.split(/(?<=\.)\s/)[0])}</p>` : ""}
+    <a class="btn btn--peach" href="${top.url}">Read the story</a>
+  </div>
+</section>`;
+
+  const welcome = `<section class="hello wrap" aria-labelledby="hello-h">
+  <div class="hello__img">${aboutImg}</div>
+  <div class="hello__text">
+    <p class="kicker">About the blog</p>
+    <h2 id="hello-h" class="h-sec">Hi, welcome to Pretty Little Rituals</h2>
+    <p>This is a beauty blog for women who love a good routine but don't want to overspend on it. I write about skincare, Korean skincare and K-beauty finds, makeup, hair tools, fragrance and beauty gifts.</p>
+    <p>Every story pairs a splurge with an everyday pick, so you can decide where your money goes.</p>
+    <blockquote class="quote"><span aria-hidden="true">&ldquo;</span>Splurge where you'll notice it.<br>Save where you won't.</blockquote>
+    <p class="hello__actions"><a class="btn btn--line" href="/about/">More about me</a>${site.amazonStorefront ? ` <a class="btn btn--peach" href="${site.amazonStorefront}" rel="sponsored noopener" target="_blank">Shop my Amazon storefront</a>` : ""}</p>
+  </div>
 </section>`;
 
   const sections = `<section class="topics wrap" aria-labelledby="topics-h">
@@ -461,7 +480,7 @@ function homePage(posts) {
   <p class="kicker">Fresh from the blog</p>
   <h2 id="latest-h" class="h-sec">Latest stories</h2>
   <div class="grid">${latest.map(card).join("")}</div>
-  ${posts.length > 6 ? `<p class="center"><a class="btn btn--line" href="/archive/">See every post</a></p>` : ""}
+  ${posts.length > 7 ? `<p class="center"><a class="btn btn--line" href="/archive/">See every post</a></p>` : ""}
 </section>`;
 
   const homePicks = shop ? (shop.home || []).map(shopProduct).filter(Boolean).slice(0, 4) : [];
@@ -475,7 +494,7 @@ function homePage(posts) {
   </div>
 </section>`;
 
-  const body = `${hero}\n${welcome}\n\n${sections}\n${trending}\n${blog}\n${freebies}\n${newsletter}`;
+  const body = `${hero}\n${newest}\n${welcome}\n\n${sections}\n${trending}\n${blog}\n${freebies}\n${newsletter}`;
   write("index.html", layout({ path: "/", body, description: site.description }));
 }
 
