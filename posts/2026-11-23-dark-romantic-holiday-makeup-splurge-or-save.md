@@ -20,11 +20,17 @@ What keeps it romantic rather than costume is softness. No sharp wings, no perfe
 
 Below are five steps, each with a splurge and an everyday pick on Amazon. You can mix and match freely, and if you only want to try one thing, start with the lip.
 
+![The finished dark romantic look: softly smudged kohl, plum eyeshadow and a glossy deep berry lip, with candlelight behind](/images/dark-romantic-holiday-makeup-splurge-or-save-4.jpg)
+
+*The finished look, for inspiration. This is an AI-created image, not a result of the specific products below.*
+
 ## Step 1: Smudged kohl
 
 The eyes in this look are lived in, not precise. A soft kohl pencil, pressed into the lash line and blurred out, gives that just-after-midnight shadow in about a minute.
 
 How to apply it: hold the pencil flat and wiggle it along the root of your upper lashes. Smudge it upward with a fingertip, a small brush or the pencil's own smudger before it sets. Add a little to the outer third of the lower lash line and soften it too. The goal is a haze, not a line.
+
+![A close-up of an eye with black kohl smudged softly along the upper and lower lash line](/images/dark-romantic-holiday-makeup-splurge-or-save-5.jpg)
 
 **The splurge:** [Charlotte Tilbury Rock 'N' Kohl Eyeliner in Bedroom Black](https://link.amazon/B0gErjSwz) is a waterproof pencil with a precision smudger tip built in. The listing describes an enhanced kajal formula made for sultry, smoky eyes, and the shade name tells you exactly what mood it is going for.
 
@@ -37,6 +43,8 @@ Pick Rock 'N' Kohl if you want the smudger tip and a slightly more luxurious pen
 A dark romantic eye does not need a full smoky eye. A wash of plum, wine or bronze over the lid, blended into the kohl, adds depth and makes the eyes look softly shadowed rather than heavily made up.
 
 How to apply it: sweep a mid-tone shade over the lid with a fluffy brush. Press a deeper shade into the outer corner and along the lash line on top of your kohl, then blend the edges until there is no visible line. Finish with a tap of shimmer in the center of the lid to catch candlelight.
+
+![Close-up of eyes with plum and wine eyeshadow blended over smudged kohl, shimmer catching candlelight](/images/dark-romantic-holiday-makeup-splurge-or-save-6.jpg)
 
 **The splurge:** [Charlotte Tilbury Luxury Palette Eyeshadow in The Vintage Vamp](https://link.amazon/B0dvnZ4hQ) is a quad of four complementary shades in shimmer, metallic and satin matte finishes. As the name suggests, it is built around deep, vampy tones, and the four pans are laid out so you can create a full look without guessing which shade goes where.
 
@@ -52,6 +60,8 @@ The lip liner is the secret to a dark lip that lasts through dinner. Filling the
 
 How to apply it: outline your lips with light, feathery strokes, then fill them in completely. For a softer, more romantic edge, press your fingertip around the outline to blur it slightly.
 
+![Close-up of lips filled in with a deep berry lip liner, the edge softly blurred](/images/dark-romantic-holiday-makeup-splurge-or-save-7.jpg)
+
 **The splurge:** [Charlotte Tilbury Lip Cheat Lip Liner in Berry Naughty](https://link.amazon/B096PwBml) is a creamy pencil enriched with jojoba oil and hyaluronic acid. The listing describes it as waterproof, smudge-proof and transfer-proof, which is exactly what you want under a dark color at a party.
 
 **The everyday:** [NYX Professional Makeup Slim Lip Pencil in Burgundy](https://link.amazon/B02uhd1om) is a creamy, long-lasting liner that has been a makeup bag staple for years. Burgundy is a true deep wine that works with almost any dark lipstick.
@@ -63,6 +73,8 @@ Choose Lip Cheat if you want the longest-wearing base and plan to wear dark lips
 This is the centerpiece. Think plum, black cherry, wine or deep berry. A cream finish feels more romantic than a flat matte, and it gives the gloss in the next step a smooth base.
 
 How to apply it: apply lipstick straight from the bullet over your liner, then blot once with a tissue and apply a second thin layer. For a more diffused, bitten look, dab the color on with your fingertip instead and keep the edges soft.
+
+![Swatches of deep plum and black cherry lipstick, a berry lip liner stroke and a glossy berry gloss on warm white paper](/images/dark-romantic-holiday-makeup-splurge-or-save-3.jpg)
 
 **The splurge:** [Estée Lauder Pure Color Long Lasting Cream Lipstick in Insolent Plum](https://link.amazon/B0j6IpcZu) is a rich cream lipstick in a deep plum shade, in Estée Lauder's signature gold case. A dark lipstick is something you use a little at a time, so one bullet tends to last through many holiday seasons.
 
@@ -77,6 +89,8 @@ Choose Insolent Plum if you love a beautiful case and want a cooler, purple-lean
 Gloss is what turns a dark lip from dramatic to romantic. The shine catches the light and softens the color, giving that juicy, just-sipped-wine effect Pinterest has been full of.
 
 How to apply it: add gloss to the center of your top and bottom lips only, then press them together. Keeping it off the edges stops the color from sliding.
+
+![Close-up of a deep wine lip topped with glossy berry gloss, catching warm candlelight](/images/dark-romantic-holiday-makeup-splurge-or-save-8.jpg)
 
 **The splurge:** [Lancôme Juicy Tubes Hydrating Lip Gloss in 15 Berry Bisou](https://link.amazon/B0dcpIUaL) brings back one of the most nostalgic glosses of all, now described as hydrating, in a berry shade that layers well over plum and wine lipsticks. It also works alone for an easy, day-friendly version of the look.
 
